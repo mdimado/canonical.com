@@ -1,0 +1,3640 @@
+{
+  "document_title": "/progression - \"Progression\"",
+  "document_id": "1NqSg2dt5wbmSY6IwWKo9gbxzOuyKL_gUZnFlAux1RU8",
+  "summary": {
+    "total_suggestions": 219,
+    "total_files": 1,
+    "by_file": {
+      "Body": {
+        "insertions": 90,
+        "deletions": 129,
+        "replacements": 0,
+        "link_adds": 0,
+        "link_changes": 0,
+        "link_removes": 0
+      }
+    },
+    "by_type": {
+      "insert": 90,
+      "delete": 129,
+      "replace": 0,
+      "link_add": 0,
+      "link_change": 0,
+      "link_remove": 0
+    }
+  },
+  "file_mappings": {
+    "Body": {
+      "suggested_file": "Body",
+      "source_reference": "/progression - \"Progression\"",
+      "suggestion_count": 98,
+      "suggestion_ids": [
+        "suggest.yzj9w84arykd",
+        "suggest.apouh0nuqwmr",
+        "suggest.g9tu3xqkxr7r",
+        "suggest.ybd5abt0ccyd",
+        "suggest.9m37mv2j0oqo",
+        "suggest.69snadrcpo4e",
+        "suggest.vifc707t7oj8",
+        "suggest.99c1yl4cu0w",
+        "suggest.8zt02ry7c0ry",
+        "suggest.1i7p6w41rph4",
+        "suggest.bhkkjvc8zhrp",
+        "suggest.5e54xgy22mj2",
+        "suggest.wepo7ewk5zrj",
+        "suggest.vhjc46fcsw5a",
+        "suggest.wh6wfsao8pj4",
+        "suggest.ujiii7mn1gvd",
+        "suggest.f658pne8d6lm",
+        "suggest.vovnsy2d2f1",
+        "suggest.3kel1ve1abcm",
+        "suggest.lbfhol4x3r3r",
+        "suggest.8lu695mzrmzo",
+        "suggest.w6ojzhi61lxl",
+        "suggest.gbbknaqs32tv",
+        "suggest.yeoy3k3wpsi3",
+        "suggest.9hk02wfu69pi",
+        "suggest.xffbpat5xyq7",
+        "suggest.tbf0znajh5rm",
+        "suggest.qfpdnjepdhg",
+        "suggest.5hfrgyiaonl3",
+        "suggest.3twy7ud3sexo",
+        "suggest.suk9qgk146g0",
+        "suggest.hcfhz8hazks1",
+        "suggest.yp8lfjhl4bxq",
+        "suggest.eavykn164uao",
+        "suggest.em6xpfnbyzfj",
+        "suggest.402irma5yj63",
+        "suggest.t6njsk27sd4e",
+        "suggest.d9rdb7cbcq2x",
+        "suggest.296x0v592l9n",
+        "suggest.d9rdb7cbcq2x",
+        "suggest.p7nnvl1cpfa",
+        "suggest.2r3fjs61mx7i",
+        "suggest.s4p93ucx508r",
+        "suggest.41euy17iif8m",
+        "suggest.yeiyk3z4ywt4",
+        "suggest.j88i22n2ni5c",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.d2ii4nxprlu0",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.prbazkoiw1cl",
+        "suggest.s4p93ucx508r",
+        "suggest.ve09mfng046o",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.qxqeq9ex5bw3",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.i7l5tclkeqdn",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.s4p93ucx508r",
+        "suggest.41euy17iif8m",
+        "suggest.c8cwhy55iysy",
+        "suggest.q8h4el43g56o",
+        "suggest.g1gtbmasc9p",
+        "suggest.j4p9tknh37ai",
+        "suggest.b472uuvbqybs",
+        "suggest.7k50cw5f8q3m",
+        "suggest.yeiyk3z4ywt4",
+        "suggest.8dy185xshid0",
+        "suggest.j88i22n2ni5c",
+        "suggest.rqbylk7lj9md",
+        "suggest.d8ejv7mhd3ta"
+      ]
+    }
+  },
+  "actionable_suggestions": [
+    {
+      "id": "suggest.yzj9w84arykd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ters max)\nCareers in tech | Progression \n*Page description (160 characters max)\n",
+        "following_text": " –-- and Find out how Canonical can help you learn, grow, and progress while w"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Career progression at Canonical can take shape in many ways"
+      },
+      "verification": {
+        "text_before_change": "ters max)\nCareers in tech | Progression \n*Page description (160 characters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while w",
+        "text_after_change": "ters max)\nCareers in tech | Progression \n*Page description (160 characters max)\n –-- and Find out how Canonical can help you learn, grow, and progress while w"
+      }
+    },
+    {
+      "id": "suggest.apouh0nuqwmr",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "(160 characters max)\nCareer progression at Canonical can take shape in many ways",
+        "following_text": "–-- and Find out how Canonical can help you learn, grow, and progress while wo"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " "
+      },
+      "verification": {
+        "text_before_change": "(160 characters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while wo",
+        "text_after_change": "(160 characters max)\nCareer progression at Canonical can take shape in many ways–-- and Find out how Canonical can help you learn, grow, and progress while wo"
+      }
+    },
+    {
+      "id": "suggest.yzj9w84arykd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "(160 characters max)\nCareer progression at Canonical can take shape in many ways",
+        "following_text": "–-- and Find out how Canonical can help you learn, grow, and progress while wo"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " "
+      },
+      "verification": {
+        "text_before_change": "(160 characters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while wo",
+        "text_after_change": "(160 characters max)\nCareer progression at Canonical can take shape in many ways–-- and Find out how Canonical can help you learn, grow, and progress while wo"
+      }
+    },
+    {
+      "id": "suggest.g9tu3xqkxr7r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "160 characters max)\nCareer progression at Canonical can take shape in many ways ",
+        "following_text": "-- and Find out how Canonical can help you learn, grow, and progress while worki"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "–"
+      },
+      "verification": {
+        "text_before_change": "160 characters max)\nCareer progression at Canonical can take shape in many ways -- and Find out how Canonical can help you learn, grow, and progress while worki",
+        "text_after_change": "160 characters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while worki"
+      }
+    },
+    {
+      "id": "suggest.apouh0nuqwmr",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "160 characters max)\nCareer progression at Canonical can take shape in many ways ",
+        "following_text": "-- and Find out how Canonical can help you learn, grow, and progress while worki"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "–"
+      },
+      "verification": {
+        "text_before_change": "160 characters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while worki",
+        "text_after_change": "160 characters max)\nCareer progression at Canonical can take shape in many ways -- and Find out how Canonical can help you learn, grow, and progress while worki"
+      }
+    },
+    {
+      "id": "suggest.yzj9w84arykd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "160 characters max)\nCareer progression at Canonical can take shape in many ways ",
+        "following_text": "-- and Find out how Canonical can help you learn, grow, and progress while worki"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "–"
+      },
+      "verification": {
+        "text_before_change": "160 characters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while worki",
+        "text_after_change": "160 characters max)\nCareer progression at Canonical can take shape in many ways -- and Find out how Canonical can help you learn, grow, and progress while worki"
+      }
+    },
+    {
+      "id": "suggest.apouh0nuqwmr",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " characters max)\nCareer progression at Canonical can take shape in many ways –",
+        "following_text": "- and Find out how Canonical can help you learn, grow, and progress while workin"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "-"
+      },
+      "verification": {
+        "text_before_change": " characters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while workin",
+        "text_after_change": " characters max)\nCareer progression at Canonical can take shape in many ways –- and Find out how Canonical can help you learn, grow, and progress while workin"
+      }
+    },
+    {
+      "id": "suggest.g9tu3xqkxr7r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " characters max)\nCareer progression at Canonical can take shape in many ways –",
+        "following_text": "- and Find out how Canonical can help you learn, grow, and progress while workin"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "-"
+      },
+      "verification": {
+        "text_before_change": " characters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while workin",
+        "text_after_change": " characters max)\nCareer progression at Canonical can take shape in many ways –- and Find out how Canonical can help you learn, grow, and progress while workin"
+      }
+    },
+    {
+      "id": "suggest.yzj9w84arykd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " characters max)\nCareer progression at Canonical can take shape in many ways –",
+        "following_text": "- and Find out how Canonical can help you learn, grow, and progress while workin"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "-"
+      },
+      "verification": {
+        "text_before_change": " characters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while workin",
+        "text_after_change": " characters max)\nCareer progression at Canonical can take shape in many ways –- and Find out how Canonical can help you learn, grow, and progress while workin"
+      }
+    },
+    {
+      "id": "suggest.ybd5abt0ccyd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "characters max)\nCareer progression at Canonical can take shape in many ways –-",
+        "following_text": " and Find out how Canonical can help you learn, grow, and progress while working"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "-"
+      },
+      "verification": {
+        "text_before_change": "characters max)\nCareer progression at Canonical can take shape in many ways –- and Find out how Canonical can help you learn, grow, and progress while working",
+        "text_after_change": "characters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while working"
+      }
+    },
+    {
+      "id": "suggest.apouh0nuqwmr",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "characters max)\nCareer progression at Canonical can take shape in many ways –-",
+        "following_text": " and Find out how Canonical can help you learn, grow, and progress while working"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "-"
+      },
+      "verification": {
+        "text_before_change": "characters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while working",
+        "text_after_change": "characters max)\nCareer progression at Canonical can take shape in many ways –- and Find out how Canonical can help you learn, grow, and progress while working"
+      }
+    },
+    {
+      "id": "suggest.g9tu3xqkxr7r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "characters max)\nCareer progression at Canonical can take shape in many ways –-",
+        "following_text": " and Find out how Canonical can help you learn, grow, and progress while working"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "-"
+      },
+      "verification": {
+        "text_before_change": "characters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while working",
+        "text_after_change": "characters max)\nCareer progression at Canonical can take shape in many ways –- and Find out how Canonical can help you learn, grow, and progress while working"
+      }
+    },
+    {
+      "id": "suggest.yzj9w84arykd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "characters max)\nCareer progression at Canonical can take shape in many ways –-",
+        "following_text": " and Find out how Canonical can help you learn, grow, and progress while working"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "-"
+      },
+      "verification": {
+        "text_before_change": "characters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while working",
+        "text_after_change": "characters max)\nCareer progression at Canonical can take shape in many ways –- and Find out how Canonical can help you learn, grow, and progress while working"
+      }
+    },
+    {
+      "id": "suggest.apouh0nuqwmr",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "haracters max)\nCareer progression at Canonical can take shape in many ways –--",
+        "following_text": " Find out how Canonical can help you learn, grow, and progress while working in "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " and"
+      },
+      "verification": {
+        "text_before_change": "haracters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while working in ",
+        "text_after_change": "haracters max)\nCareer progression at Canonical can take shape in many ways –-- Find out how Canonical can help you learn, grow, and progress while working in "
+      }
+    },
+    {
+      "id": "suggest.yzj9w84arykd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "haracters max)\nCareer progression at Canonical can take shape in many ways –--",
+        "following_text": " Find out how Canonical can help you learn, grow, and progress while working in "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " and"
+      },
+      "verification": {
+        "text_before_change": "haracters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while working in ",
+        "text_after_change": "haracters max)\nCareer progression at Canonical can take shape in many ways –-- Find out how Canonical can help you learn, grow, and progress while working in "
+      }
+    },
+    {
+      "id": "suggest.yzj9w84arykd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "cters max)\nCareer progression at Canonical can take shape in many ways –-- and",
+        "following_text": "Find out how Canonical can help you learn, grow, and progress while working in o"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " "
+      },
+      "verification": {
+        "text_before_change": "cters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while working in o",
+        "text_after_change": "cters max)\nCareer progression at Canonical can take shape in many ways –-- andFind out how Canonical can help you learn, grow, and progress while working in o"
+      }
+    },
+    {
+      "id": "suggest.yzj9w84arykd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ters max)\nCareer progression at Canonical can take shape in many ways –-- and ",
+        "following_text": "Wwe celebrate growth and development in many forms. We value people who love to "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "Find out how Canonical can help you learn, grow, and progress while working in open source. "
+      },
+      "verification": {
+        "text_before_change": "ters max)\nCareer progression at Canonical can take shape in many ways –-- and Wwe celebrate growth and development in many forms. We value people who love to ",
+        "text_after_change": "ters max)\nCareer progression at Canonical can take shape in many ways –-- and Find out how Canonical can help you learn, grow, and progress while working in open source. Wwe celebrate growth and development in many forms. We value people who love to "
+      }
+    },
+    {
+      "id": "suggest.yzj9w84arykd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " Canonical can help you learn, grow, and progress while working in open source. ",
+        "following_text": "we celebrate growth and development in many forms. We value people who love to l"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "W"
+      },
+      "verification": {
+        "text_before_change": " Canonical can help you learn, grow, and progress while working in open source. we celebrate growth and development in many forms. We value people who love to l",
+        "text_after_change": " Canonical can help you learn, grow, and progress while working in open source. Wwe celebrate growth and development in many forms. We value people who love to l"
+      }
+    },
+    {
+      "id": "suggest.yzj9w84arykd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " Canonical can help you learn, grow, and progress while working in open source. ",
+        "following_text": "we celebrate growth and development in many forms. We value people who love to l"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "W"
+      },
+      "verification": {
+        "text_before_change": " Canonical can help you learn, grow, and progress while working in open source. Wwe celebrate growth and development in many forms. We value people who love to l",
+        "text_after_change": " Canonical can help you learn, grow, and progress while working in open source. we celebrate growth and development in many forms. We value people who love to l"
+      }
+    },
+    {
+      "id": "suggest.yzj9w84arykd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "Canonical can help you learn, grow, and progress while working in open source. W",
+        "following_text": " and have an early careers program, ideal for new professionals. \n\n*Current or s"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "we celebrate growth and development in many forms. We value people who love to learn"
+      },
+      "verification": {
+        "text_before_change": "Canonical can help you learn, grow, and progress while working in open source. Wwe celebrate growth and development in many forms. We value people who love to learn and have an early careers program, ideal for new professionals. \n\n*Current or s",
+        "text_after_change": "Canonical can help you learn, grow, and progress while working in open source. W and have an early careers program, ideal for new professionals. \n\n*Current or s"
+      }
+    },
+    {
+      "id": "suggest.9m37mv2j0oqo",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "elebrate growth and development in many forms. We value people who love to learn",
+        "following_text": "an early careers program, ideal for new professionals. \n\n*Current or suggested p"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " and have "
+      },
+      "verification": {
+        "text_before_change": "elebrate growth and development in many forms. We value people who love to learn and have an early careers program, ideal for new professionals. \n\n*Current or suggested p",
+        "text_after_change": "elebrate growth and development in many forms. We value people who love to learnan early careers program, ideal for new professionals. \n\n*Current or suggested p"
+      }
+    },
+    {
+      "id": "suggest.yzj9w84arykd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "elebrate growth and development in many forms. We value people who love to learn",
+        "following_text": "an early careers program, ideal for new professionals. \n\n*Current or suggested p"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " and have "
+      },
+      "verification": {
+        "text_before_change": "elebrate growth and development in many forms. We value people who love to learn and have an early careers program, ideal for new professionals. \n\n*Current or suggested p",
+        "text_after_change": "elebrate growth and development in many forms. We value people who love to learnan early careers program, ideal for new professionals. \n\n*Current or suggested p"
+      }
+    },
+    {
+      "id": "suggest.9m37mv2j0oqo",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "rowth and development in many forms. We value people who love to learn and have ",
+        "following_text": " early careers program, ideal for new professionals. \n\n*Current or suggested pag"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "an"
+      },
+      "verification": {
+        "text_before_change": "rowth and development in many forms. We value people who love to learn and have an early careers program, ideal for new professionals. \n\n*Current or suggested pag",
+        "text_after_change": "rowth and development in many forms. We value people who love to learn and have  early careers program, ideal for new professionals. \n\n*Current or suggested pag"
+      }
+    },
+    {
+      "id": "suggest.9m37mv2j0oqo",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "wth and development in many forms. We value people who love to learn and have an",
+        "following_text": ". \n\n*Current or suggested page URL\nhttps://canonical.com/careers/company-culture"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " early careers program, ideal for new professionals"
+      },
+      "verification": {
+        "text_before_change": "wth and development in many forms. We value people who love to learn and have an early careers program, ideal for new professionals. \n\n*Current or suggested page URL\nhttps://canonical.com/careers/company-culture",
+        "text_after_change": "wth and development in many forms. We value people who love to learn and have an. \n\n*Current or suggested page URL\nhttps://canonical.com/careers/company-culture"
+      }
+    },
+    {
+      "id": "suggest.69snadrcpo4e",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " Careers\u003e Progression\nMain action for users to take on the page \nTo learn about ",
+        "following_text": "Canonical’s Journey to Prof I (our early careers program)\nMain keyword and key"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "career progression at Canonical"
+      },
+      "verification": {
+        "text_before_change": " Careers\u003e Progression\nMain action for users to take on the page \nTo learn about Canonical’s Journey to Prof I (our early careers program)\nMain keyword and key",
+        "text_after_change": " Careers\u003e Progression\nMain action for users to take on the page \nTo learn about career progression at CanonicalCanonical’s Journey to Prof I (our early careers program)\nMain keyword and key"
+      }
+    },
+    {
+      "id": "suggest.69snadrcpo4e",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "on for users to take on the page \nTo learn about career progression at Canonical",
+        "following_text": "\nMain keyword and keyword cluster\nOpen source work source jobsJ?\nTarget audience"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Canonical’s Journey to Prof I (our early careers program)"
+      },
+      "verification": {
+        "text_before_change": "on for users to take on the page \nTo learn about career progression at CanonicalCanonical’s Journey to Prof I (our early careers program)\nMain keyword and keyword cluster\nOpen source work source jobsJ?\nTarget audience",
+        "text_after_change": "on for users to take on the page \nTo learn about career progression at Canonical\nMain keyword and keyword cluster\nOpen source work source jobsJ?\nTarget audience"
+      }
+    },
+    {
+      "id": "suggest.vifc707t7oj8",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " Journey to Prof I (our early careers program)\nMain keyword and keyword cluster\n",
+        "following_text": " source jobsJ?\nTarget audience (choose from drop down)\n\nPage type (choose fro"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "Open source work"
+      },
+      "verification": {
+        "text_before_change": " Journey to Prof I (our early careers program)\nMain keyword and keyword cluster\n source jobsJ?\nTarget audience (choose from drop down)\n\nPage type (choose fro",
+        "text_after_change": " Journey to Prof I (our early careers program)\nMain keyword and keyword cluster\nOpen source work source jobsJ?\nTarget audience (choose from drop down)\n\nPage type (choose fro"
+      }
+    },
+    {
+      "id": "suggest.99c1yl4cu0w",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " I (our early careers program)\nMain keyword and keyword cluster\nOpen source work",
+        "following_text": "J?\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " source jobs"
+      },
+      "verification": {
+        "text_before_change": " I (our early careers program)\nMain keyword and keyword cluster\nOpen source workJ?\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)",
+        "text_after_change": " I (our early careers program)\nMain keyword and keyword cluster\nOpen source work source jobsJ?\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)"
+      }
+    },
+    {
+      "id": "suggest.vifc707t7oj8",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " I (our early careers program)\nMain keyword and keyword cluster\nOpen source work",
+        "following_text": "J?\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " source jobs"
+      },
+      "verification": {
+        "text_before_change": " I (our early careers program)\nMain keyword and keyword cluster\nOpen source work source jobsJ?\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)",
+        "text_after_change": " I (our early careers program)\nMain keyword and keyword cluster\nOpen source workJ?\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)"
+      }
+    },
+    {
+      "id": "suggest.99c1yl4cu0w",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "y careers program)\nMain keyword and keyword cluster\nOpen source work source jobs",
+        "following_text": "?\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)\n"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "J"
+      },
+      "verification": {
+        "text_before_change": "y careers program)\nMain keyword and keyword cluster\nOpen source work source jobsJ?\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)\n",
+        "text_after_change": "y careers program)\nMain keyword and keyword cluster\nOpen source work source jobs?\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)\n"
+      }
+    },
+    {
+      "id": "suggest.vifc707t7oj8",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "y careers program)\nMain keyword and keyword cluster\nOpen source work source jobs",
+        "following_text": "?\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)\n"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "J"
+      },
+      "verification": {
+        "text_before_change": "y careers program)\nMain keyword and keyword cluster\nOpen source work source jobsJ?\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)\n",
+        "text_after_change": "y careers program)\nMain keyword and keyword cluster\nOpen source work source jobs?\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)\n"
+      }
+    },
+    {
+      "id": "suggest.vifc707t7oj8",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " careers program)\nMain keyword and keyword cluster\nOpen source work source jobsJ",
+        "following_text": "\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)\n\ufffd"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "?"
+      },
+      "verification": {
+        "text_before_change": " careers program)\nMain keyword and keyword cluster\nOpen source work source jobsJ?\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)\n\ufffd",
+        "text_after_change": " careers program)\nMain keyword and keyword cluster\nOpen source work source jobsJ\nTarget audience (choose from drop down)\n\nPage type (choose from drop down)\n\ufffd"
+      }
+    },
+    {
+      "id": "suggest.8zt02ry7c0ry",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "icate approvals needed before the page goes into development: \nog:Image *New\n",
+        "following_text": "https://assets.ubuntu.com/v1/abb4038f-DSC_2776.jpg\nFor developers, to be filled "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "https://assets.ubuntu.com/v1/60b625a2-rav_2504_1.jpg"
+      },
+      "verification": {
+        "text_before_change": "icate approvals needed before the page goes into development: \nog:Image *New\nhttps://assets.ubuntu.com/v1/abb4038f-DSC_2776.jpg\nFor developers, to be filled ",
+        "text_after_change": "icate approvals needed before the page goes into development: \nog:Image *New\nhttps://assets.ubuntu.com/v1/60b625a2-rav_2504_1.jpghttps://assets.ubuntu.com/v1/abb4038f-DSC_2776.jpg\nFor developers, to be filled "
+      }
+    },
+    {
+      "id": "suggest.8zt02ry7c0ry",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "elopment: \nog:Image *New\nhttps://assets.ubuntu.com/v1/60b625a2-rav_2504_1.jpg",
+        "following_text": "\nFor developers, to be filled in by Sites visual designers: Link to asset manage"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "https://assets.ubuntu.com/v1/abb4038f-DSC_2776.jpg"
+      },
+      "verification": {
+        "text_before_change": "elopment: \nog:Image *New\nhttps://assets.ubuntu.com/v1/60b625a2-rav_2504_1.jpghttps://assets.ubuntu.com/v1/abb4038f-DSC_2776.jpg\nFor developers, to be filled in by Sites visual designers: Link to asset manage",
+        "text_after_change": "elopment: \nog:Image *New\nhttps://assets.ubuntu.com/v1/60b625a2-rav_2504_1.jpg\nFor developers, to be filled in by Sites visual designers: Link to asset manage"
+      }
+    },
+    {
+      "id": "suggest.1i7p6w41rph4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "gners: Link to asset manager tag\n \n\nHERO\nProgression\nWe hire for talent, passion",
+        "following_text": " and work ethic\n\nAt Canonical, you can build a career in open source that’s un"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": ","
+      },
+      "verification": {
+        "text_before_change": "gners: Link to asset manager tag\n \n\nHERO\nProgression\nWe hire for talent, passion and work ethic\n\nAt Canonical, you can build a career in open source that’s un",
+        "text_after_change": "gners: Link to asset manager tag\n \n\nHERO\nProgression\nWe hire for talent, passion, and work ethic\n\nAt Canonical, you can build a career in open source that’s un"
+      }
+    },
+    {
+      "id": "suggest.bhkkjvc8zhrp",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "e hire for talent, passion, and work ethic\n\nAt Canonical, you can build a career",
+        "following_text": " that’s uniquely your own – and we’ll support you every step of the way.\n\n"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " in open source"
+      },
+      "verification": {
+        "text_before_change": "e hire for talent, passion, and work ethic\n\nAt Canonical, you can build a career that’s uniquely your own – and we’ll support you every step of the way.\n\n",
+        "text_after_change": "e hire for talent, passion, and work ethic\n\nAt Canonical, you can build a career in open source that’s uniquely your own – and we’ll support you every step of the way.\n\n"
+      }
+    },
+    {
+      "id": "suggest.5e54xgy22mj2",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "y.\n\n[Explore careers] \n\n\n\n\n\nEQUAL HEIGHT ROW\nWe value people who love to learn\n\n",
+        "following_text": " Not just how to be a better engineers, but how to be better speakers, better de"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "At Canonical, we don’t just empower our team members to be better engineers, but"
+      },
+      "verification": {
+        "text_before_change": "y.\n\n[Explore careers] \n\n\n\n\n\nEQUAL HEIGHT ROW\nWe value people who love to learn\n\n Not just how to be a better engineers, but how to be better speakers, better de",
+        "text_after_change": "y.\n\n[Explore careers] \n\n\n\n\n\nEQUAL HEIGHT ROW\nWe value people who love to learn\n\nAt Canonical, we don’t just empower our team members to be better engineers, but Not just how to be a better engineers, but how to be better speakers, better de"
+      }
+    },
+    {
+      "id": "suggest.wepo7ewk5zrj",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " Canonical, we don’t just empower our team members to be better engineers, but",
+        "following_text": "Not just how to be a better engineers, but how to be better speakers, better des"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": " Canonical, we don’t just empower our team members to be better engineers, butNot just how to be a better engineers, but how to be better speakers, better des",
+        "text_after_change": " Canonical, we don’t just empower our team members to be better engineers, but Not just how to be a better engineers, but how to be better speakers, better des"
+      }
+    },
+    {
+      "id": "suggest.5e54xgy22mj2",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "Canonical, we don’t just empower our team members to be better engineers, but ",
+        "following_text": " a better engineers, but how to be better speakers, better designers, better org"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Not just how to be"
+      },
+      "verification": {
+        "text_before_change": "Canonical, we don’t just empower our team members to be better engineers, but Not just how to be a better engineers, but how to be better speakers, better designers, better org",
+        "text_after_change": "Canonical, we don’t just empower our team members to be better engineers, but  a better engineers, but how to be better speakers, better designers, better org"
+      }
+    },
+    {
+      "id": "suggest.wepo7ewk5zrj",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "Canonical, we don’t just empower our team members to be better engineers, but ",
+        "following_text": " a better engineers, but how to be better speakers, better designers, better org"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Not just how to be"
+      },
+      "verification": {
+        "text_before_change": "Canonical, we don’t just empower our team members to be better engineers, but Not just how to be a better engineers, but how to be better speakers, better designers, better org",
+        "text_after_change": "Canonical, we don’t just empower our team members to be better engineers, but  a better engineers, but how to be better speakers, better designers, better org"
+      }
+    },
+    {
+      "id": "suggest.wepo7ewk5zrj",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "\ufffd\ufffdt just empower our team members to be better engineers, but Not just how to be",
+        "following_text": "a better engineers, but how to be better speakers, better designers, better orga"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " "
+      },
+      "verification": {
+        "text_before_change": "\ufffd\ufffdt just empower our team members to be better engineers, but Not just how to be a better engineers, but how to be better speakers, better designers, better orga",
+        "text_after_change": "\ufffd\ufffdt just empower our team members to be better engineers, but Not just how to bea better engineers, but how to be better speakers, better designers, better orga"
+      }
+    },
+    {
+      "id": "suggest.wepo7ewk5zrj",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "\ufffdt just empower our team members to be better engineers, but Not just how to be ",
+        "following_text": "better engineers, but how to be better speakers, better designers, better organi"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "a "
+      },
+      "verification": {
+        "text_before_change": "\ufffdt just empower our team members to be better engineers, but Not just how to be better engineers, but how to be better speakers, better designers, better organi",
+        "text_after_change": "\ufffdt just empower our team members to be better engineers, but Not just how to be a better engineers, but how to be better speakers, better designers, better organi"
+      }
+    },
+    {
+      "id": "suggest.wepo7ewk5zrj",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "\ufffdt just empower our team members to be better engineers, but Not just how to be ",
+        "following_text": "better engineers, but how to be better speakers, better designers, better organi"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "a "
+      },
+      "verification": {
+        "text_before_change": "\ufffdt just empower our team members to be better engineers, but Not just how to be a better engineers, but how to be better speakers, better designers, better organi",
+        "text_after_change": "\ufffdt just empower our team members to be better engineers, but Not just how to be better engineers, but how to be better speakers, better designers, better organi"
+      }
+    },
+    {
+      "id": "suggest.wepo7ewk5zrj",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " just empower our team members to be better engineers, but Not just how to be a ",
+        "following_text": "better speakers, better designers, better organizers, better partners, and bette"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "better engineers, but how to be "
+      },
+      "verification": {
+        "text_before_change": " just empower our team members to be better engineers, but Not just how to be a better engineers, but how to be better speakers, better designers, better organizers, better partners, and bette",
+        "text_after_change": " just empower our team members to be better engineers, but Not just how to be a better speakers, better designers, better organizers, better partners, and bette"
+      }
+    },
+    {
+      "id": "suggest.vhjc46fcsw5a",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " engineers, but how to be better speakers, better designers, better organizers, ",
+        "following_text": "and better leadersmanagersvendors.\n\n\nExplore diverse roles\n\nWe encourage team me"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "better partners, "
+      },
+      "verification": {
+        "text_before_change": " engineers, but how to be better speakers, better designers, better organizers, better partners, and better leadersmanagersvendors.\n\n\nExplore diverse roles\n\nWe encourage team me",
+        "text_after_change": " engineers, but how to be better speakers, better designers, better organizers, and better leadersmanagersvendors.\n\n\nExplore diverse roles\n\nWe encourage team me"
+      }
+    },
+    {
+      "id": "suggest.wh6wfsao8pj4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "tter speakers, better designers, better organizers, better partners, and better ",
+        "following_text": "managersvendors.\n\n\nExplore diverse roles\n\nWe encourage team members to experienc"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "leaders"
+      },
+      "verification": {
+        "text_before_change": "tter speakers, better designers, better organizers, better partners, and better managersvendors.\n\n\nExplore diverse roles\n\nWe encourage team members to experienc",
+        "text_after_change": "tter speakers, better designers, better organizers, better partners, and better leadersmanagersvendors.\n\n\nExplore diverse roles\n\nWe encourage team members to experienc"
+      }
+    },
+    {
+      "id": "suggest.ujiii7mn1gvd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "eakers, better designers, better organizers, better partners, and better leaders",
+        "following_text": "vendors.\n\n\nExplore diverse roles\n\nWe encourage team members to experience divers"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "managers"
+      },
+      "verification": {
+        "text_before_change": "eakers, better designers, better organizers, better partners, and better leadersvendors.\n\n\nExplore diverse roles\n\nWe encourage team members to experience divers",
+        "text_after_change": "eakers, better designers, better organizers, better partners, and better leadersmanagersvendors.\n\n\nExplore diverse roles\n\nWe encourage team members to experience divers"
+      }
+    },
+    {
+      "id": "suggest.wh6wfsao8pj4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "eakers, better designers, better organizers, better partners, and better leaders",
+        "following_text": "vendors.\n\n\nExplore diverse roles\n\nWe encourage team members to experience divers"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "managers"
+      },
+      "verification": {
+        "text_before_change": "eakers, better designers, better organizers, better partners, and better leadersmanagersvendors.\n\n\nExplore diverse roles\n\nWe encourage team members to experience divers",
+        "text_after_change": "eakers, better designers, better organizers, better partners, and better leadersvendors.\n\n\nExplore diverse roles\n\nWe encourage team members to experience divers"
+      }
+    },
+    {
+      "id": "suggest.ujiii7mn1gvd",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "better designers, better organizers, better partners, and better leadersmanagers",
+        "following_text": ".\n\n\nExplore diverse roles\n\nWe encourage team members to experience diverse roles"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "vendors"
+      },
+      "verification": {
+        "text_before_change": "better designers, better organizers, better partners, and better leadersmanagersvendors.\n\n\nExplore diverse roles\n\nWe encourage team members to experience diverse roles",
+        "text_after_change": "better designers, better organizers, better partners, and better leadersmanagers.\n\n\nExplore diverse roles\n\nWe encourage team members to experience diverse roles"
+      }
+    },
+    {
+      "id": "suggest.f658pne8d6lm",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "\n\n\nExplore diverse roles\n\nWe encourage team members to experience diverse roles ",
+        "following_text": "over the course of their career at Canonical to build a depth of skills and dept"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "at Canonical "
+      },
+      "verification": {
+        "text_before_change": "\n\n\nExplore diverse roles\n\nWe encourage team members to experience diverse roles at Canonical over the course of their career at Canonical to build a depth of skills and dept",
+        "text_after_change": "\n\n\nExplore diverse roles\n\nWe encourage team members to experience diverse roles over the course of their career at Canonical to build a depth of skills and dept"
+      }
+    },
+    {
+      "id": "suggest.vovnsy2d2f1",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "members to experience diverse roles at Canonical over the course of their career",
+        "following_text": " to build a depth of skills and depth of their application, serving to underpin "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " at Canonical"
+      },
+      "verification": {
+        "text_before_change": "members to experience diverse roles at Canonical over the course of their career to build a depth of skills and depth of their application, serving to underpin ",
+        "text_after_change": "members to experience diverse roles at Canonical over the course of their career at Canonical to build a depth of skills and depth of their application, serving to underpin "
+      }
+    },
+    {
+      "id": "suggest.3kel1ve1abcm",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "diverse roles at Canonical over the course of their career at Canonical to build",
+        "following_text": " greaterdeep awareness of company culture, establish best practices in leadershi"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " a depth of skills and depth of their application, serving to underpin long term growth. "
+      },
+      "verification": {
+        "text_before_change": "diverse roles at Canonical over the course of their career at Canonical to build greaterdeep awareness of company culture, establish best practices in leadershi",
+        "text_after_change": "diverse roles at Canonical over the course of their career at Canonical to build a depth of skills and depth of their application, serving to underpin long term growth.  greaterdeep awareness of company culture, establish best practices in leadershi"
+      }
+    },
+    {
+      "id": "suggest.lbfhol4x3r3r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "f skills and depth of their application, serving to underpin long term growth.  ",
+        "following_text": "deep awareness of company culture, establish best practices in leadership, and d"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "greater"
+      },
+      "verification": {
+        "text_before_change": "f skills and depth of their application, serving to underpin long term growth.  deep awareness of company culture, establish best practices in leadership, and d",
+        "text_after_change": "f skills and depth of their application, serving to underpin long term growth.  greaterdeep awareness of company culture, establish best practices in leadership, and d"
+      }
+    },
+    {
+      "id": "suggest.8lu695mzrmzo",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "f skills and depth of their application, serving to underpin long term growth.  ",
+        "following_text": "deep awareness of company culture, establish best practices in leadership, and d"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "greater"
+      },
+      "verification": {
+        "text_before_change": "f skills and depth of their application, serving to underpin long term growth.  greaterdeep awareness of company culture, establish best practices in leadership, and d",
+        "text_after_change": "f skills and depth of their application, serving to underpin long term growth.  deep awareness of company culture, establish best practices in leadership, and d"
+      }
+    },
+    {
+      "id": "suggest.8lu695mzrmzo",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "s and depth of their application, serving to underpin long term growth.  greater",
+        "following_text": "awareness of company culture, establish best practices in leadership, and deepen"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "deep "
+      },
+      "verification": {
+        "text_before_change": "s and depth of their application, serving to underpin long term growth.  greaterdeep awareness of company culture, establish best practices in leadership, and deepen",
+        "text_after_change": "s and depth of their application, serving to underpin long term growth.  greaterawareness of company culture, establish best practices in leadership, and deepen"
+      }
+    },
+    {
+      "id": "suggest.lbfhol4x3r3r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "s and depth of their application, serving to underpin long term growth.  greater",
+        "following_text": "awareness of company culture, establish best practices in leadership, and deepen"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "deep "
+      },
+      "verification": {
+        "text_before_change": "s and depth of their application, serving to underpin long term growth.  greaterdeep awareness of company culture, establish best practices in leadership, and deepen",
+        "text_after_change": "s and depth of their application, serving to underpin long term growth.  greaterawareness of company culture, establish best practices in leadership, and deepen"
+      }
+    },
+    {
+      "id": "suggest.8lu695mzrmzo",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " depth of their application, serving to underpin long term growth.  greaterdeep ",
+        "following_text": "deepengrow their technical expertise. \n\n\nFind your passion\n\nFWe also encourage t"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "awareness of company culture, establish best practices in leadership, and "
+      },
+      "verification": {
+        "text_before_change": " depth of their application, serving to underpin long term growth.  greaterdeep awareness of company culture, establish best practices in leadership, and deepengrow their technical expertise. \n\n\nFind your passion\n\nFWe also encourage t",
+        "text_after_change": " depth of their application, serving to underpin long term growth.  greaterdeep deepengrow their technical expertise. \n\n\nFind your passion\n\nFWe also encourage t"
+      }
+    },
+    {
+      "id": "suggest.w6ojzhi61lxl",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "rdeep awareness of company culture, establish best practices in leadership, and ",
+        "following_text": "grow their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team me"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "deepen"
+      },
+      "verification": {
+        "text_before_change": "rdeep awareness of company culture, establish best practices in leadership, and grow their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team me",
+        "text_after_change": "rdeep awareness of company culture, establish best practices in leadership, and deepengrow their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team me"
+      }
+    },
+    {
+      "id": "suggest.8lu695mzrmzo",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "rdeep awareness of company culture, establish best practices in leadership, and ",
+        "following_text": "grow their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team me"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "deepen"
+      },
+      "verification": {
+        "text_before_change": "rdeep awareness of company culture, establish best practices in leadership, and deepengrow their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team me",
+        "text_after_change": "rdeep awareness of company culture, establish best practices in leadership, and grow their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team me"
+      }
+    },
+    {
+      "id": "suggest.8lu695mzrmzo",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "awareness of company culture, establish best practices in leadership, and deepen",
+        "following_text": " their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team member"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "grow"
+      },
+      "verification": {
+        "text_before_change": "awareness of company culture, establish best practices in leadership, and deepengrow their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team member",
+        "text_after_change": "awareness of company culture, establish best practices in leadership, and deepen their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team member"
+      }
+    },
+    {
+      "id": "suggest.w6ojzhi61lxl",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "awareness of company culture, establish best practices in leadership, and deepen",
+        "following_text": " their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team member"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "grow"
+      },
+      "verification": {
+        "text_before_change": "awareness of company culture, establish best practices in leadership, and deepengrow their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team member",
+        "text_after_change": "awareness of company culture, establish best practices in leadership, and deepen their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team member"
+      }
+    },
+    {
+      "id": "suggest.8lu695mzrmzo",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "eness of company culture, establish best practices in leadership, and deepengrow",
+        "following_text": "\n\n\nFind your passion\n\nFWe also encourage team members to finding and investing i"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " their technical expertise. "
+      },
+      "verification": {
+        "text_before_change": "eness of company culture, establish best practices in leadership, and deepengrow their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team members to finding and investing i",
+        "text_after_change": "eness of company culture, establish best practices in leadership, and deepengrow\n\n\nFind your passion\n\nFWe also encourage team members to finding and investing i"
+      }
+    },
+    {
+      "id": "suggest.gbbknaqs32tv",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " in leadership, and deepengrow their technical expertise. \n\n\nFind your passion\n\n",
+        "following_text": "We also encourage team members to finding and investing in your passion is core "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "F"
+      },
+      "verification": {
+        "text_before_change": " in leadership, and deepengrow their technical expertise. \n\n\nFind your passion\n\nWe also encourage team members to finding and investing in your passion is core ",
+        "text_after_change": " in leadership, and deepengrow their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team members to finding and investing in your passion is core "
+      }
+    },
+    {
+      "id": "suggest.gbbknaqs32tv",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "in leadership, and deepengrow their technical expertise. \n\n\nFind your passion\n\nF",
+        "following_text": "inding and investing in your passion is core to flourishing at Canonical. and in"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "We also encourage team members to f"
+      },
+      "verification": {
+        "text_before_change": "in leadership, and deepengrow their technical expertise. \n\n\nFind your passion\n\nFWe also encourage team members to finding and investing in your passion is core to flourishing at Canonical. and in",
+        "text_after_change": "in leadership, and deepengrow their technical expertise. \n\n\nFind your passion\n\nFinding and investing in your passion is core to flourishing at Canonical. and in"
+      }
+    },
+    {
+      "id": "suggest.yeoy3k3wpsi3",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "chnical expertise. \n\n\nFind your passion\n\nFWe also encourage team members to find",
+        "following_text": " and invest in their passions. We all benefit from effective team players. \n\nWe "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "ing and investing in your passion is core to flourishing at Canonical."
+      },
+      "verification": {
+        "text_before_change": "chnical expertise. \n\n\nFind your passion\n\nFWe also encourage team members to find and invest in their passions. We all benefit from effective team players. \n\nWe ",
+        "text_after_change": "chnical expertise. \n\n\nFind your passion\n\nFWe also encourage team members to finding and investing in your passion is core to flourishing at Canonical. and invest in their passions. We all benefit from effective team players. \n\nWe "
+      }
+    },
+    {
+      "id": "suggest.9hk02wfu69pi",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "s to finding and investing in your passion is core to flourishing at Canonical. ",
+        "following_text": "We all benefit from effective team players. \n\nWe support our team members’ sel"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "and invest in their passions. "
+      },
+      "verification": {
+        "text_before_change": "s to finding and investing in your passion is core to flourishing at Canonical. and invest in their passions. We all benefit from effective team players. \n\nWe support our team members’ sel",
+        "text_after_change": "s to finding and investing in your passion is core to flourishing at Canonical. We all benefit from effective team players. \n\nWe support our team members’ sel"
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "e team players. \n\nWe support our team members’ self-driven growth and learning",
+        "following_text": "program. It offers all team members an annual training budget of USD 2,000 to en"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " with our Training and Tuition "
+      },
+      "verification": {
+        "text_before_change": "e team players. \n\nWe support our team members’ self-driven growth and learningprogram. It offers all team members an annual training budget of USD 2,000 to en",
+        "text_after_change": "e team players. \n\nWe support our team members’ self-driven growth and learning with our Training and Tuition program. It offers all team members an annual training budget of USD 2,000 to en"
+      }
+    },
+    {
+      "id": "suggest.tbf0znajh5rm",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "r team members’ self-driven growth and learning with our Training and Tuition ",
+        "following_text": ". It offers all team members an annual training budget of USD 2,000 to enhance t"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "program"
+      },
+      "verification": {
+        "text_before_change": "r team members’ self-driven growth and learning with our Training and Tuition . It offers all team members an annual training budget of USD 2,000 to enhance t",
+        "text_after_change": "r team members’ self-driven growth and learning with our Training and Tuition program. It offers all team members an annual training budget of USD 2,000 to enhance t"
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "r team members’ self-driven growth and learning with our Training and Tuition ",
+        "following_text": ". It offers all team members an annual training budget of USD 2,000 to enhance t"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "program"
+      },
+      "verification": {
+        "text_before_change": "r team members’ self-driven growth and learning with our Training and Tuition . It offers all team members an annual training budget of USD 2,000 to enhance t",
+        "text_after_change": "r team members’ self-driven growth and learning with our Training and Tuition program. It offers all team members an annual training budget of USD 2,000 to enhance t"
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "members’ self-driven growth and learning with our Training and Tuition program",
+        "following_text": "We champion independent thinkers who chart their own course to excellence.\n\n\n by"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": ". It offers all team members an annual training budget of USD 2,000 to enhance their skill sets and develop professionally. "
+      },
+      "verification": {
+        "text_before_change": "members’ self-driven growth and learning with our Training and Tuition programWe champion independent thinkers who chart their own course to excellence.\n\n\n by",
+        "text_after_change": "members’ self-driven growth and learning with our Training and Tuition program. It offers all team members an annual training budget of USD 2,000 to enhance their skill sets and develop professionally. We champion independent thinkers who chart their own course to excellence.\n\n\n by"
+      }
+    },
+    {
+      "id": "suggest.qfpdnjepdhg",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ing budget of USD 2,000 to enhance their skill sets and develop professionally. ",
+        "following_text": "e champion independent thinkers who chart their own course to excellence.\n\n\n by "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "W"
+      },
+      "verification": {
+        "text_before_change": "ing budget of USD 2,000 to enhance their skill sets and develop professionally. e champion independent thinkers who chart their own course to excellence.\n\n\n by ",
+        "text_after_change": "ing budget of USD 2,000 to enhance their skill sets and develop professionally. We champion independent thinkers who chart their own course to excellence.\n\n\n by "
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ing budget of USD 2,000 to enhance their skill sets and develop professionally. ",
+        "following_text": "e champion independent thinkers who chart their own course to excellence.\n\n\n by "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "W"
+      },
+      "verification": {
+        "text_before_change": "ing budget of USD 2,000 to enhance their skill sets and develop professionally. e champion independent thinkers who chart their own course to excellence.\n\n\n by ",
+        "text_after_change": "ing budget of USD 2,000 to enhance their skill sets and develop professionally. We champion independent thinkers who chart their own course to excellence.\n\n\n by "
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ng budget of USD 2,000 to enhance their skill sets and develop professionally. W",
+        "following_text": " excellence.\n\n\n by providing a generous annual allowance and time for self-devel"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "e champion independent thinkers who chart their own course to"
+      },
+      "verification": {
+        "text_before_change": "ng budget of USD 2,000 to enhance their skill sets and develop professionally. W excellence.\n\n\n by providing a generous annual allowance and time for self-devel",
+        "text_after_change": "ng budget of USD 2,000 to enhance their skill sets and develop professionally. We champion independent thinkers who chart their own course to excellence.\n\n\n by providing a generous annual allowance and time for self-devel"
+      }
+    },
+    {
+      "id": "suggest.5hfrgyiaonl3",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "p professionally. We champion independent thinkers who chart their own course to",
+        "following_text": ".\n\n\n by providing a generous annual allowance and time for self-development. We "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " excellence"
+      },
+      "verification": {
+        "text_before_change": "p professionally. We champion independent thinkers who chart their own course to.\n\n\n by providing a generous annual allowance and time for self-development. We ",
+        "text_after_change": "p professionally. We champion independent thinkers who chart their own course to excellence.\n\n\n by providing a generous annual allowance and time for self-development. We "
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "p professionally. We champion independent thinkers who chart their own course to",
+        "following_text": ".\n\n\n by providing a generous annual allowance and time for self-development. We "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " excellence"
+      },
+      "verification": {
+        "text_before_change": "p professionally. We champion independent thinkers who chart their own course to.\n\n\n by providing a generous annual allowance and time for self-development. We ",
+        "text_after_change": "p professionally. We champion independent thinkers who chart their own course to excellence.\n\n\n by providing a generous annual allowance and time for self-development. We "
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "nally. We champion independent thinkers who chart their own course to excellence",
+        "following_text": "\n\n by providing a generous annual allowance and time for self-development. We al"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": ".\n"
+      },
+      "verification": {
+        "text_before_change": "nally. We champion independent thinkers who chart their own course to excellence\n\n by providing a generous annual allowance and time for self-development. We al",
+        "text_after_change": "nally. We champion independent thinkers who chart their own course to excellence.\n\n\n by providing a generous annual allowance and time for self-development. We al"
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "lly. We champion independent thinkers who chart their own course to excellence.\n",
+        "following_text": "\n by providing a generous annual allowance and time for self-development. We als"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "lly. We champion independent thinkers who chart their own course to excellence.\n\n by providing a generous annual allowance and time for self-development. We als",
+        "text_after_change": "lly. We champion independent thinkers who chart their own course to excellence.\n\n\n by providing a generous annual allowance and time for self-development. We als"
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "lly. We champion independent thinkers who chart their own course to excellence.\n",
+        "following_text": "\n by providing a generous annual allowance and time for self-development. We als"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "lly. We champion independent thinkers who chart their own course to excellence.\n\n\n by providing a generous annual allowance and time for self-development. We als",
+        "text_after_change": "lly. We champion independent thinkers who chart their own course to excellence.\n\n by providing a generous annual allowance and time for self-development. We als"
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ly. We champion independent thinkers who chart their own course to excellence.\n\n",
+        "following_text": " by providing a generous annual allowance and time for self-development. We also"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "ly. We champion independent thinkers who chart their own course to excellence.\n\n by providing a generous annual allowance and time for self-development. We also",
+        "text_after_change": "ly. We champion independent thinkers who chart their own course to excellence.\n\n\n by providing a generous annual allowance and time for self-development. We also"
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ly. We champion independent thinkers who chart their own course to excellence.\n\n",
+        "following_text": " by providing a generous annual allowance and time for self-development. We also"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "ly. We champion independent thinkers who chart their own course to excellence.\n\n\n by providing a generous annual allowance and time for self-development. We also",
+        "text_after_change": "ly. We champion independent thinkers who chart their own course to excellence.\n\n by providing a generous annual allowance and time for self-development. We also"
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "y. We champion independent thinkers who chart their own course to excellence.\n\n\n",
+        "following_text": "also partner with high-quality content providers, to make sure our people get ac"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " by providing a generous annual allowance and time for self-development. We "
+      },
+      "verification": {
+        "text_before_change": "y. We champion independent thinkers who chart their own course to excellence.\n\n\n by providing a generous annual allowance and time for self-development. We also partner with high-quality content providers, to make sure our people get ac",
+        "text_after_change": "y. We champion independent thinkers who chart their own course to excellence.\n\n\nalso partner with high-quality content providers, to make sure our people get ac"
+      }
+    },
+    {
+      "id": "suggest.3twy7ud3sexo",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": ".\n\n\n by providing a generous annual allowance and time for self-development. We ",
+        "following_text": "partner with high-quality content providers, to make sure our people get access "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "also "
+      },
+      "verification": {
+        "text_before_change": ".\n\n\n by providing a generous annual allowance and time for self-development. We also partner with high-quality content providers, to make sure our people get access ",
+        "text_after_change": ".\n\n\n by providing a generous annual allowance and time for self-development. We partner with high-quality content providers, to make sure our people get access "
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": ".\n\n\n by providing a generous annual allowance and time for self-development. We ",
+        "following_text": "partner with high-quality content providers, to make sure our people get access "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "also "
+      },
+      "verification": {
+        "text_before_change": ".\n\n\n by providing a generous annual allowance and time for self-development. We also partner with high-quality content providers, to make sure our people get access ",
+        "text_after_change": ".\n\n\n by providing a generous annual allowance and time for self-development. We partner with high-quality content providers, to make sure our people get access "
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "by providing a generous annual allowance and time for self-development. We also ",
+        "following_text": ", and the time to benefit from them.\n\nPath to leadershipmanagement\n\nManagement i"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "partner with high-quality content providers, to make sure our people get access to the best possible training materials"
+      },
+      "verification": {
+        "text_before_change": "by providing a generous annual allowance and time for self-development. We also partner with high-quality content providers, to make sure our people get access to the best possible training materials, and the time to benefit from them.\n\nPath to leadershipmanagement\n\nManagement i",
+        "text_after_change": "by providing a generous annual allowance and time for self-development. We also , and the time to benefit from them.\n\nPath to leadershipmanagement\n\nManagement i"
+      }
+    },
+    {
+      "id": "suggest.suk9qgk146g0",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ders, to make sure our people get access to the best possible training materials",
+        "following_text": "d the time to benefit from them.\n\nPath to leadershipmanagement\n\nManagement is im"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": ", an"
+      },
+      "verification": {
+        "text_before_change": "ders, to make sure our people get access to the best possible training materials, and the time to benefit from them.\n\nPath to leadershipmanagement\n\nManagement is im",
+        "text_after_change": "ders, to make sure our people get access to the best possible training materialsd the time to benefit from them.\n\nPath to leadershipmanagement\n\nManagement is im"
+      }
+    },
+    {
+      "id": "suggest.xffbpat5xyq7",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ders, to make sure our people get access to the best possible training materials",
+        "following_text": "d the time to benefit from them.\n\nPath to leadershipmanagement\n\nManagement is im"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": ", an"
+      },
+      "verification": {
+        "text_before_change": "ders, to make sure our people get access to the best possible training materials, and the time to benefit from them.\n\nPath to leadershipmanagement\n\nManagement is im",
+        "text_after_change": "ders, to make sure our people get access to the best possible training materialsd the time to benefit from them.\n\nPath to leadershipmanagement\n\nManagement is im"
+      }
+    },
+    {
+      "id": "suggest.suk9qgk146g0",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": ", to make sure our people get access to the best possible training materials, an",
+        "following_text": ".\n\nPath to leadershipmanagement\n\nManagement is important to us, and we like to d"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "d the time to benefit from them"
+      },
+      "verification": {
+        "text_before_change": ", to make sure our people get access to the best possible training materials, and the time to benefit from them.\n\nPath to leadershipmanagement\n\nManagement is important to us, and we like to d",
+        "text_after_change": ", to make sure our people get access to the best possible training materials, an.\n\nPath to leadershipmanagement\n\nManagement is important to us, and we like to d"
+      }
+    },
+    {
+      "id": "suggest.hcfhz8hazks1",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "e best possible training materials, and the time to benefit from them.\n\nPath to ",
+        "following_text": "management\n\nManagement is important to us, and we like to develop those skills i"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "leadership"
+      },
+      "verification": {
+        "text_before_change": "e best possible training materials, and the time to benefit from them.\n\nPath to management\n\nManagement is important to us, and we like to develop those skills i",
+        "text_after_change": "e best possible training materials, and the time to benefit from them.\n\nPath to leadershipmanagement\n\nManagement is important to us, and we like to develop those skills i"
+      }
+    },
+    {
+      "id": "suggest.hcfhz8hazks1",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "sible training materials, and the time to benefit from them.\n\nPath to leadership",
+        "following_text": "\n\nManagement is important to us, and we like to develop those skills in people w"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "management"
+      },
+      "verification": {
+        "text_before_change": "sible training materials, and the time to benefit from them.\n\nPath to leadershipmanagement\n\nManagement is important to us, and we like to develop those skills in people w",
+        "text_after_change": "sible training materials, and the time to benefit from them.\n\nPath to leadership\n\nManagement is important to us, and we like to develop those skills in people w"
+      }
+    },
+    {
+      "id": "suggest.yp8lfjhl4bxq",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ng materials, and the time to benefit from them.\n\nPath to leadershipmanagement\n\n",
+        "following_text": "Being a leadermanager at Canonical offers the chance to impactlead some of the b"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Management is important to us, and we like to develop those skills in people who enjoy it. "
+      },
+      "verification": {
+        "text_before_change": "ng materials, and the time to benefit from them.\n\nPath to leadershipmanagement\n\nManagement is important to us, and we like to develop those skills in people who enjoy it. Being a leadermanager at Canonical offers the chance to impactlead some of the b",
+        "text_after_change": "ng materials, and the time to benefit from them.\n\nPath to leadershipmanagement\n\nBeing a leadermanager at Canonical offers the chance to impactlead some of the b"
+      }
+    },
+    {
+      "id": "suggest.eavykn164uao",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "tant to us, and we like to develop those skills in people who enjoy it. Being a ",
+        "following_text": "manager at Canonical offers the chance to impactlead some of the brightest peopl"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "leader"
+      },
+      "verification": {
+        "text_before_change": "tant to us, and we like to develop those skills in people who enjoy it. Being a manager at Canonical offers the chance to impactlead some of the brightest peopl",
+        "text_after_change": "tant to us, and we like to develop those skills in people who enjoy it. Being a leadermanager at Canonical offers the chance to impactlead some of the brightest peopl"
+      }
+    },
+    {
+      "id": "suggest.eavykn164uao",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "o us, and we like to develop those skills in people who enjoy it. Being a leader",
+        "following_text": " at Canonical offers the chance to impactlead some of the brightest people in te"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "manager"
+      },
+      "verification": {
+        "text_before_change": "o us, and we like to develop those skills in people who enjoy it. Being a leadermanager at Canonical offers the chance to impactlead some of the brightest people in te",
+        "text_after_change": "o us, and we like to develop those skills in people who enjoy it. Being a leader at Canonical offers the chance to impactlead some of the brightest people in te"
+      }
+    },
+    {
+      "id": "suggest.em6xpfnbyzfj",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "in people who enjoy it. Being a leadermanager at Canonical offers the chance to ",
+        "following_text": "lead some of the brightest people in tech. You play a critical role Managers pla"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "impact"
+      },
+      "verification": {
+        "text_before_change": "in people who enjoy it. Being a leadermanager at Canonical offers the chance to lead some of the brightest people in tech. You play a critical role Managers pla",
+        "text_after_change": "in people who enjoy it. Being a leadermanager at Canonical offers the chance to impactlead some of the brightest people in tech. You play a critical role Managers pla"
+      }
+    },
+    {
+      "id": "suggest.em6xpfnbyzfj",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ple who enjoy it. Being a leadermanager at Canonical offers the chance to impact",
+        "following_text": " some of the brightest people in tech. You play a critical role Managers play a "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "lead"
+      },
+      "verification": {
+        "text_before_change": "ple who enjoy it. Being a leadermanager at Canonical offers the chance to impactlead some of the brightest people in tech. You play a critical role Managers play a ",
+        "text_after_change": "ple who enjoy it. Being a leadermanager at Canonical offers the chance to impact some of the brightest people in tech. You play a critical role Managers play a "
+      }
+    },
+    {
+      "id": "suggest.402irma5yj63",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "t Canonical offers the chance to impactlead some of the brightest people in tech",
+        "following_text": " Managers play a critical role. You ; in designing, building, innovating, and pi"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": ". You play a critical role"
+      },
+      "verification": {
+        "text_before_change": "t Canonical offers the chance to impactlead some of the brightest people in tech Managers play a critical role. You ; in designing, building, innovating, and pi",
+        "text_after_change": "t Canonical offers the chance to impactlead some of the brightest people in tech. You play a critical role Managers play a critical role. You ; in designing, building, innovating, and pi"
+      }
+    },
+    {
+      "id": "suggest.t6njsk27sd4e",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "nce to impactlead some of the brightest people in tech. You play a critical role",
+        "following_text": "Managers play a critical role. You ; in designing, building, innovating, and pil"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "nce to impactlead some of the brightest people in tech. You play a critical roleManagers play a critical role. You ; in designing, building, innovating, and pil",
+        "text_after_change": "nce to impactlead some of the brightest people in tech. You play a critical role Managers play a critical role. You ; in designing, building, innovating, and pil"
+      }
+    },
+    {
+      "id": "suggest.t6njsk27sd4e",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ce to impactlead some of the brightest people in tech. You play a critical role ",
+        "following_text": "; in designing, building, innovating, and pilotingto design, build, sell, and su"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "Managers play a critical role. You "
+      },
+      "verification": {
+        "text_before_change": "ce to impactlead some of the brightest people in tech. You play a critical role ; in designing, building, innovating, and pilotingto design, build, sell, and su",
+        "text_after_change": "ce to impactlead some of the brightest people in tech. You play a critical role Managers play a critical role. You ; in designing, building, innovating, and pilotingto design, build, sell, and su"
+      }
+    },
+    {
+      "id": "suggest.t6njsk27sd4e",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ce to impactlead some of the brightest people in tech. You play a critical role ",
+        "following_text": "; in designing, building, innovating, and pilotingto design, build, sell, and su"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Managers play a critical role. You "
+      },
+      "verification": {
+        "text_before_change": "ce to impactlead some of the brightest people in tech. You play a critical role Managers play a critical role. You ; in designing, building, innovating, and pilotingto design, build, sell, and su",
+        "text_after_change": "ce to impactlead some of the brightest people in tech. You play a critical role ; in designing, building, innovating, and pilotingto design, build, sell, and su"
+      }
+    },
+    {
+      "id": "suggest.t6njsk27sd4e",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "est people in tech. You play a critical role Managers play a critical role. You ",
+        "following_text": "in designing, building, innovating, and pilotingto design, build, sell, and supp"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "; "
+      },
+      "verification": {
+        "text_before_change": "est people in tech. You play a critical role Managers play a critical role. You ; in designing, building, innovating, and pilotingto design, build, sell, and supp",
+        "text_after_change": "est people in tech. You play a critical role Managers play a critical role. You in designing, building, innovating, and pilotingto design, build, sell, and supp"
+      }
+    },
+    {
+      "id": "suggest.d9rdb7cbcq2x",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "t people in tech. You play a critical role Managers play a critical role. You ; ",
+        "following_text": "ingto design, build, sell, and support a growing range of technology products at"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "in designing, building, innovating, and pilot"
+      },
+      "verification": {
+        "text_before_change": "t people in tech. You play a critical role Managers play a critical role. You ; ingto design, build, sell, and support a growing range of technology products at",
+        "text_after_change": "t people in tech. You play a critical role Managers play a critical role. You ; in designing, building, innovating, and pilotingto design, build, sell, and support a growing range of technology products at"
+      }
+    },
+    {
+      "id": "suggest.296x0v592l9n",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "nagers play a critical role. You ; in designing, building, innovating, and pilot",
+        "following_text": "to design, build, sell, and support a growing range of technology products at ev"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "ing"
+      },
+      "verification": {
+        "text_before_change": "nagers play a critical role. You ; in designing, building, innovating, and pilotto design, build, sell, and support a growing range of technology products at ev",
+        "text_after_change": "nagers play a critical role. You ; in designing, building, innovating, and pilotingto design, build, sell, and support a growing range of technology products at ev"
+      }
+    },
+    {
+      "id": "suggest.d9rdb7cbcq2x",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ers play a critical role. You ; in designing, building, innovating, and piloting",
+        "following_text": " a growing range of technology products at every level of the stack.\n\n\nBASIC TEX"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "to design, build, sell, and support"
+      },
+      "verification": {
+        "text_before_change": "ers play a critical role. You ; in designing, building, innovating, and pilotingto design, build, sell, and support a growing range of technology products at every level of the stack.\n\n\nBASIC TEX",
+        "text_after_change": "ers play a critical role. You ; in designing, building, innovating, and piloting a growing range of technology products at every level of the stack.\n\n\nBASIC TEX"
+      }
+    },
+    {
+      "id": "suggest.p7nnvl1cpfa",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "lotingto design, build, sell, and support a growing range of technology products",
+        "following_text": ".\n\n\nBASIC TEXT\nWe touch every aspect of open source technology, so we offer a wi"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " at every level of the stack"
+      },
+      "verification": {
+        "text_before_change": "lotingto design, build, sell, and support a growing range of technology products at every level of the stack.\n\n\nBASIC TEXT\nWe touch every aspect of open source technology, so we offer a wi",
+        "text_after_change": "lotingto design, build, sell, and support a growing range of technology products.\n\n\nBASIC TEXT\nWe touch every aspect of open source technology, so we offer a wi"
+      }
+    },
+    {
+      "id": "suggest.2r3fjs61mx7i",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "eveloper.\n\n\nThen choose to travel more, and focus on customer operations…\n\n…",
+        "following_text": "Then decide to take on a role in tech leadership and management. \n\n\nTABBED SECTI"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " t"
+      },
+      "verification": {
+        "text_before_change": "eveloper.\n\n\nThen choose to travel more, and focus on customer operations…\n\n…Then decide to take on a role in tech leadership and management. \n\n\nTABBED SECTI",
+        "text_after_change": "eveloper.\n\n\nThen choose to travel more, and focus on customer operations…\n\n… tThen decide to take on a role in tech leadership and management. \n\n\nTABBED SECTI"
+      }
+    },
+    {
+      "id": "suggest.2r3fjs61mx7i",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "eloper.\n\n\nThen choose to travel more, and focus on customer operations…\n\n… t",
+        "following_text": "hen decide to take on a role in tech leadership and management. \n\n\nTABBED SECTIO"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "T"
+      },
+      "verification": {
+        "text_before_change": "eloper.\n\n\nThen choose to travel more, and focus on customer operations…\n\n… tThen decide to take on a role in tech leadership and management. \n\n\nTABBED SECTIO",
+        "text_after_change": "eloper.\n\n\nThen choose to travel more, and focus on customer operations…\n\n… then decide to take on a role in tech leadership and management. \n\n\nTABBED SECTIO"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ns…\n\n… tThen decide to take on a role in tech leadership and management. \n\n\n",
+        "following_text": "\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on th"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "TABBED SECTIONS\n"
+      },
+      "verification": {
+        "text_before_change": "ns…\n\n… tThen decide to take on a role in tech leadership and management. \n\n\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on th",
+        "text_after_change": "ns…\n\n… tThen decide to take on a role in tech leadership and management. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on th"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " decide to take on a role in tech leadership and management. \n\n\nTABBED SECTIONS\n",
+        "following_text": "Leveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on the"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "\n"
+      },
+      "verification": {
+        "text_before_change": " decide to take on a role in tech leadership and management. \n\n\nTABBED SECTIONS\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on the",
+        "text_after_change": " decide to take on a role in tech leadership and management. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on the"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "decide to take on a role in tech leadership and management. \n\n\nTABBED SECTIONS\n\n",
+        "following_text": "\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on the direction, goals, "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "Leveling framework\n"
+      },
+      "verification": {
+        "text_before_change": "decide to take on a role in tech leadership and management. \n\n\nTABBED SECTIONS\n\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on the direction, goals, ",
+        "text_after_change": "decide to take on a role in tech leadership and management. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on the direction, goals, "
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " role in tech leadership and management. \n\n\nTABBED SECTIONS\n\nLeveling framework\n",
+        "following_text": "[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on the direction, goals, a"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "\n"
+      },
+      "verification": {
+        "text_before_change": " role in tech leadership and management. \n\n\nTABBED SECTIONS\n\nLeveling framework\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on the direction, goals, a",
+        "text_after_change": " role in tech leadership and management. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on the direction, goals, a"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "role in tech leadership and management. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n",
+        "following_text": "\n\nOverview\nDepending on the direction, goals, and maturity of your career, Canon"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "[Overview] [Depth] [Drive][Plan]\n"
+      },
+      "verification": {
+        "text_before_change": "role in tech leadership and management. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n\n\nOverview\nDepending on the direction, goals, and maturity of your career, Canon",
+        "text_after_change": "role in tech leadership and management. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on the direction, goals, and maturity of your career, Canon"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ement. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n",
+        "following_text": "\nOverview\nDepending on the direction, goals, and maturity of your career, Canoni"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "ement. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\nOverview\nDepending on the direction, goals, and maturity of your career, Canoni",
+        "text_after_change": "ement. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on the direction, goals, and maturity of your career, Canoni"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ment. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n",
+        "following_text": "Overview\nDepending on the direction, goals, and maturity of your career, Canonic"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "ment. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\nOverview\nDepending on the direction, goals, and maturity of your career, Canonic",
+        "text_after_change": "ment. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on the direction, goals, and maturity of your career, Canonic"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ent. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\n",
+        "following_text": "Depending on the direction, goals, and maturity of your career, Canonical’s le"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "Overview\n"
+      },
+      "verification": {
+        "text_before_change": "ent. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nDepending on the direction, goals, and maturity of your career, Canonical’s le",
+        "text_after_change": "ent. \n\n\nTABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on the direction, goals, and maturity of your career, Canonical’s le"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\n",
+        "following_text": "\nEarly careers team members may join us at Graduate or Associate level before ac"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "Depending on the direction, goals, and maturity of your career, Canonical’s leveling framework offers a variety of directions and opportunities, designed to help you flourish in the long term.\n"
+      },
+      "verification": {
+        "text_before_change": "ABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\n\nEarly careers team members may join us at Graduate or Associate level before ac",
+        "text_after_change": "ABBED SECTIONS\n\nLeveling framework\n\n[Overview] [Depth] [Drive][Plan]\n\n\nOverview\nDepending on the direction, goals, and maturity of your career, Canonical’s leveling framework offers a variety of directions and opportunities, designed to help you flourish in the long term.\n\nEarly careers team members may join us at Graduate or Associate level before ac"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "f directions and opportunities, designed to help you flourish in the long term.\n",
+        "following_text": "Early careers team members may join us at Graduate or Associate level before ach"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "f directions and opportunities, designed to help you flourish in the long term.\nEarly careers team members may join us at Graduate or Associate level before ach",
+        "text_after_change": "f directions and opportunities, designed to help you flourish in the long term.\n\nEarly careers team members may join us at Graduate or Associate level before ach"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " directions and opportunities, designed to help you flourish in the long term.\n\n",
+        "following_text": "\n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is idealpe"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "Early careers team members may join us at Graduate or Associate level before achieving Prof I and beyond. Following Prof II, team members have the option to focus on one of three tracks. "
+      },
+      "verification": {
+        "text_before_change": " directions and opportunities, designed to help you flourish in the long term.\n\n\n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is idealpe",
+        "text_after_change": " directions and opportunities, designed to help you flourish in the long term.\n\nEarly careers team members may join us at Graduate or Associate level before achieving Prof I and beyond. Following Prof II, team members have the option to focus on one of three tracks. \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is idealpe"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ollowing Prof II, team members have the option to focus on one of three tracks. ",
+        "following_text": "\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is idealper"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "ollowing Prof II, team members have the option to focus on one of three tracks. \nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is idealper",
+        "text_after_change": "ollowing Prof II, team members have the option to focus on one of three tracks. \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is idealper"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "llowing Prof II, team members have the option to focus on one of three tracks. \n",
+        "following_text": "Depth\nOur “Depth” track, progressing from Specialist to Fellow, is idealperf"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "llowing Prof II, team members have the option to focus on one of three tracks. \nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is idealperf",
+        "text_after_change": "llowing Prof II, team members have the option to focus on one of three tracks. \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is idealperf"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "lowing Prof II, team members have the option to focus on one of three tracks. \n\n",
+        "following_text": "Our “Depth” track, progressing from Specialist to Fellow, is idealperfect fo"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "Depth\n"
+      },
+      "verification": {
+        "text_before_change": "lowing Prof II, team members have the option to focus on one of three tracks. \n\nOur “Depth” track, progressing from Specialist to Fellow, is idealperfect fo",
+        "text_after_change": "lowing Prof II, team members have the option to focus on one of three tracks. \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is idealperfect fo"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " Prof II, team members have the option to focus on one of three tracks. \n\nDepth\n",
+        "following_text": "idealperfect for technical experts who want to gain a deep understanding of comp"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "Our “Depth” track, progressing from Specialist to Fellow, is "
+      },
+      "verification": {
+        "text_before_change": " Prof II, team members have the option to focus on one of three tracks. \n\nDepth\nidealperfect for technical experts who want to gain a deep understanding of comp",
+        "text_after_change": " Prof II, team members have the option to focus on one of three tracks. \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is idealperfect for technical experts who want to gain a deep understanding of comp"
+      }
+    },
+    {
+      "id": "suggest.d2ii4nxprlu0",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "racks. \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is ",
+        "following_text": "perfect for technical experts who want to gain a deep understanding of complex c"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "ideal"
+      },
+      "verification": {
+        "text_before_change": "racks. \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is perfect for technical experts who want to gain a deep understanding of complex c",
+        "text_after_change": "racks. \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is idealperfect for technical experts who want to gain a deep understanding of complex c"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "racks. \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is ",
+        "following_text": "perfect for technical experts who want to gain a deep understanding of complex c"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "ideal"
+      },
+      "verification": {
+        "text_before_change": "racks. \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is perfect for technical experts who want to gain a deep understanding of complex c",
+        "text_after_change": "racks. \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is idealperfect for technical experts who want to gain a deep understanding of complex c"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": ". \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is ideal",
+        "following_text": " for technical experts who want to gain a deep understanding of complex challeng"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "perfect"
+      },
+      "verification": {
+        "text_before_change": ". \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is ideal for technical experts who want to gain a deep understanding of complex challeng",
+        "text_after_change": ". \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is idealperfect for technical experts who want to gain a deep understanding of complex challeng"
+      }
+    },
+    {
+      "id": "suggest.d2ii4nxprlu0",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": ". \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is ideal",
+        "following_text": " for technical experts who want to gain a deep understanding of complex challeng"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "perfect"
+      },
+      "verification": {
+        "text_before_change": ". \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is idealperfect for technical experts who want to gain a deep understanding of complex challeng",
+        "text_after_change": ". \n\nDepth\nOur “Depth” track, progressing from Specialist to Fellow, is ideal for technical experts who want to gain a deep understanding of complex challeng"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "th\nOur “Depth” track, progressing from Specialist to Fellow, is idealperfect",
+        "following_text": "\nDrive\nFor those who excel at balancing cross-team coordination with strategic i"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " for technical experts who want to gain a deep understanding of complex challenges and deliver meaningful value. From forging greater security for Ubuntu Desktop to advancing our commercial systems, Depth track members focus on mastery and innovation in their discipline.\n"
+      },
+      "verification": {
+        "text_before_change": "th\nOur “Depth” track, progressing from Specialist to Fellow, is idealperfect\nDrive\nFor those who excel at balancing cross-team coordination with strategic i",
+        "text_after_change": "th\nOur “Depth” track, progressing from Specialist to Fellow, is idealperfect for technical experts who want to gain a deep understanding of complex challenges and deliver meaningful value. From forging greater security for Ubuntu Desktop to advancing our commercial systems, Depth track members focus on mastery and innovation in their discipline.\n\nDrive\nFor those who excel at balancing cross-team coordination with strategic i"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "stems, Depth track members focus on mastery and innovation in their discipline.\n",
+        "following_text": "Drive\nFor those who excel at balancing cross-team coordination with strategic in"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "stems, Depth track members focus on mastery and innovation in their discipline.\nDrive\nFor those who excel at balancing cross-team coordination with strategic in",
+        "text_after_change": "stems, Depth track members focus on mastery and innovation in their discipline.\n\nDrive\nFor those who excel at balancing cross-team coordination with strategic in"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "tems, Depth track members focus on mastery and innovation in their discipline.\n\n",
+        "following_text": "For those who excel at balancing cross-team coordination with strategic insight,"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "Drive\n"
+      },
+      "verification": {
+        "text_before_change": "tems, Depth track members focus on mastery and innovation in their discipline.\n\nFor those who excel at balancing cross-team coordination with strategic insight,",
+        "text_after_change": "tems, Depth track members focus on mastery and innovation in their discipline.\n\nDrive\nFor those who excel at balancing cross-team coordination with strategic insight,"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "Depth track members focus on mastery and innovation in their discipline.\n\nDrive\n",
+        "following_text": "at balancing cross-team coordination with strategic insight, our “Drive” tra"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "For those who excel "
+      },
+      "verification": {
+        "text_before_change": "Depth track members focus on mastery and innovation in their discipline.\n\nDrive\nat balancing cross-team coordination with strategic insight, our “Drive” tra",
+        "text_after_change": "Depth track members focus on mastery and innovation in their discipline.\n\nDrive\nFor those who excel at balancing cross-team coordination with strategic insight, our “Drive” tra"
+      }
+    },
+    {
+      "id": "suggest.prbazkoiw1cl",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "focus on mastery and innovation in their discipline.\n\nDrive\nFor those who excel ",
+        "following_text": "balancing cross-team coordination with strategic insight, our “Drive” track "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "at "
+      },
+      "verification": {
+        "text_before_change": "focus on mastery and innovation in their discipline.\n\nDrive\nFor those who excel balancing cross-team coordination with strategic insight, our “Drive” track ",
+        "text_after_change": "focus on mastery and innovation in their discipline.\n\nDrive\nFor those who excel at balancing cross-team coordination with strategic insight, our “Drive” track "
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "focus on mastery and innovation in their discipline.\n\nDrive\nFor those who excel ",
+        "following_text": "balancing cross-team coordination with strategic insight, our “Drive” track "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "at "
+      },
+      "verification": {
+        "text_before_change": "focus on mastery and innovation in their discipline.\n\nDrive\nFor those who excel balancing cross-team coordination with strategic insight, our “Drive” track ",
+        "text_after_change": "focus on mastery and innovation in their discipline.\n\nDrive\nFor those who excel at balancing cross-team coordination with strategic insight, our “Drive” track "
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "us on mastery and innovation in their discipline.\n\nDrive\nFor those who excel at ",
+        "following_text": " the levels of Senior to Principal, all of which help to realize the processes, "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "balancing cross-team coordination with strategic insight, our “Drive” track offers the opportunity to shape Canonical’s landscape and get things done cross-functionally. This track contains"
+      },
+      "verification": {
+        "text_before_change": "us on mastery and innovation in their discipline.\n\nDrive\nFor those who excel at  the levels of Senior to Principal, all of which help to realize the processes, ",
+        "text_after_change": "us on mastery and innovation in their discipline.\n\nDrive\nFor those who excel at balancing cross-team coordination with strategic insight, our “Drive” track offers the opportunity to shape Canonical’s landscape and get things done cross-functionally. This track contains the levels of Senior to Principal, all of which help to realize the processes, "
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "onical’s landscape and get things done cross-functionally. This track contains",
+        "following_text": " levels of Senior to Principal, all of which help to realize the processes, team"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " the"
+      },
+      "verification": {
+        "text_before_change": "onical’s landscape and get things done cross-functionally. This track contains levels of Senior to Principal, all of which help to realize the processes, team",
+        "text_after_change": "onical’s landscape and get things done cross-functionally. This track contains the levels of Senior to Principal, all of which help to realize the processes, team"
+      }
+    },
+    {
+      "id": "suggest.ve09mfng046o",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "onical’s landscape and get things done cross-functionally. This track contains",
+        "following_text": " levels of Senior to Principal, all of which help to realize the processes, team"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " the"
+      },
+      "verification": {
+        "text_before_change": "onical’s landscape and get things done cross-functionally. This track contains levels of Senior to Principal, all of which help to realize the processes, team",
+        "text_after_change": "onical’s landscape and get things done cross-functionally. This track contains the levels of Senior to Principal, all of which help to realize the processes, team"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "al’s landscape and get things done cross-functionally. This track contains the",
+        "following_text": "teamspeople, and products that define Canonical. \n\nPlan\nOur “Plan” track enc"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " levels of Senior to Principal, all of which help to realize the processes, "
+      },
+      "verification": {
+        "text_before_change": "al’s landscape and get things done cross-functionally. This track contains theteamspeople, and products that define Canonical. \n\nPlan\nOur “Plan” track enc",
+        "text_after_change": "al’s landscape and get things done cross-functionally. This track contains the levels of Senior to Principal, all of which help to realize the processes, teamspeople, and products that define Canonical. \n\nPlan\nOur “Plan” track enc"
+      }
+    },
+    {
+      "id": "suggest.qxqeq9ex5bw3",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " the levels of Senior to Principal, all of which help to realize the processes, ",
+        "following_text": "people, and products that define Canonical. \n\nPlan\nOur “Plan” track encompas"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "teams"
+      },
+      "verification": {
+        "text_before_change": " the levels of Senior to Principal, all of which help to realize the processes, people, and products that define Canonical. \n\nPlan\nOur “Plan” track encompas",
+        "text_after_change": " the levels of Senior to Principal, all of which help to realize the processes, teamspeople, and products that define Canonical. \n\nPlan\nOur “Plan” track encompas"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " the levels of Senior to Principal, all of which help to realize the processes, ",
+        "following_text": "people, and products that define Canonical. \n\nPlan\nOur “Plan” track encompas"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "teams"
+      },
+      "verification": {
+        "text_before_change": " the levels of Senior to Principal, all of which help to realize the processes, people, and products that define Canonical. \n\nPlan\nOur “Plan” track encompas",
+        "text_after_change": " the levels of Senior to Principal, all of which help to realize the processes, teamspeople, and products that define Canonical. \n\nPlan\nOur “Plan” track encompas"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "levels of Senior to Principal, all of which help to realize the processes, teams",
+        "following_text": ", and products that define Canonical. \n\nPlan\nOur “Plan” track encompasses ca"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "people"
+      },
+      "verification": {
+        "text_before_change": "levels of Senior to Principal, all of which help to realize the processes, teams, and products that define Canonical. \n\nPlan\nOur “Plan” track encompasses ca",
+        "text_after_change": "levels of Senior to Principal, all of which help to realize the processes, teamspeople, and products that define Canonical. \n\nPlan\nOur “Plan” track encompasses ca"
+      }
+    },
+    {
+      "id": "suggest.qxqeq9ex5bw3",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "levels of Senior to Principal, all of which help to realize the processes, teams",
+        "following_text": ", and products that define Canonical. \n\nPlan\nOur “Plan” track encompasses ca"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "people"
+      },
+      "verification": {
+        "text_before_change": "levels of Senior to Principal, all of which help to realize the processes, teamspeople, and products that define Canonical. \n\nPlan\nOur “Plan” track encompasses ca",
+        "text_after_change": "levels of Senior to Principal, all of which help to realize the processes, teams, and products that define Canonical. \n\nPlan\nOur “Plan” track encompasses ca"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " of Senior to Principal, all of which help to realize the processes, teamspeople",
+        "following_text": "\nPlan\nOur “Plan” track encompasses career levels from Manager to VP, and com"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": ", and products that define Canonical. \n"
+      },
+      "verification": {
+        "text_before_change": " of Senior to Principal, all of which help to realize the processes, teamspeople\nPlan\nOur “Plan” track encompasses career levels from Manager to VP, and com",
+        "text_after_change": " of Senior to Principal, all of which help to realize the processes, teamspeople, and products that define Canonical. \n\nPlan\nOur “Plan” track encompasses career levels from Manager to VP, and com"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "elp to realize the processes, teamspeople, and products that define Canonical. \n",
+        "following_text": "Plan\nOur “Plan” track encompasses career levels from Manager to VP, and comb"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "elp to realize the processes, teamspeople, and products that define Canonical. \nPlan\nOur “Plan” track encompasses career levels from Manager to VP, and comb",
+        "text_after_change": "elp to realize the processes, teamspeople, and products that define Canonical. \n\nPlan\nOur “Plan” track encompasses career levels from Manager to VP, and comb"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "lp to realize the processes, teamspeople, and products that define Canonical. \n\n",
+        "following_text": "Our “Plan” track encompasses career levels from Manager to VP, and combines "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "Plan\n"
+      },
+      "verification": {
+        "text_before_change": "lp to realize the processes, teamspeople, and products that define Canonical. \n\nOur “Plan” track encompasses career levels from Manager to VP, and combines ",
+        "text_after_change": "lp to realize the processes, teamspeople, and products that define Canonical. \n\nPlan\nOur “Plan” track encompasses career levels from Manager to VP, and combines "
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " realize the processes, teamspeople, and products that define Canonical. \n\nPlan\n",
+        "following_text": "ur “Plan” track encompasses career levels from Manager to VP, and combines a"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "O"
+      },
+      "verification": {
+        "text_before_change": " realize the processes, teamspeople, and products that define Canonical. \n\nPlan\nur “Plan” track encompasses career levels from Manager to VP, and combines a",
+        "text_after_change": " realize the processes, teamspeople, and products that define Canonical. \n\nPlan\nOur “Plan” track encompasses career levels from Manager to VP, and combines a"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "realize the processes, teamspeople, and products that define Canonical. \n\nPlan\nO",
+        "following_text": "combines a passion for excellencecomplements team members with a passion for peo"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "ur “Plan” track encompasses career levels from Manager to VP, and "
+      },
+      "verification": {
+        "text_before_change": "realize the processes, teamspeople, and products that define Canonical. \n\nPlan\nOcombines a passion for excellencecomplements team members with a passion for peo",
+        "text_after_change": "realize the processes, teamspeople, and products that define Canonical. \n\nPlan\nOur “Plan” track encompasses career levels from Manager to VP, and combines a passion for excellencecomplements team members with a passion for peo"
+      }
+    },
+    {
+      "id": "suggest.i7l5tclkeqdn",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": ". \n\nPlan\nOur “Plan” track encompasses career levels from Manager to VP, and ",
+        "following_text": "complements team members with a passion for people. Their primary focus is on st"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "combines a passion for excellence"
+      },
+      "verification": {
+        "text_before_change": ". \n\nPlan\nOur “Plan” track encompasses career levels from Manager to VP, and complements team members with a passion for people. Their primary focus is on st",
+        "text_after_change": ". \n\nPlan\nOur “Plan” track encompasses career levels from Manager to VP, and combines a passion for excellencecomplements team members with a passion for people. Their primary focus is on st"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": ". \n\nPlan\nOur “Plan” track encompasses career levels from Manager to VP, and ",
+        "following_text": "complements team members with a passion for people. Their primary focus is on st"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "combines a passion for excellence"
+      },
+      "verification": {
+        "text_before_change": ". \n\nPlan\nOur “Plan” track encompasses career levels from Manager to VP, and complements team members with a passion for people. Their primary focus is on st",
+        "text_after_change": ". \n\nPlan\nOur “Plan” track encompasses career levels from Manager to VP, and combines a passion for excellencecomplements team members with a passion for people. Their primary focus is on st"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ompasses career levels from Manager to VP, and combines a passion for excellence",
+        "following_text": " with a passion for people. Their primary focus is on strategizing the future of"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "complements team members"
+      },
+      "verification": {
+        "text_before_change": "ompasses career levels from Manager to VP, and combines a passion for excellence with a passion for people. Their primary focus is on strategizing the future of",
+        "text_after_change": "ompasses career levels from Manager to VP, and combines a passion for excellencecomplements team members with a passion for people. Their primary focus is on strategizing the future of"
+      }
+    },
+    {
+      "id": "suggest.i7l5tclkeqdn",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ompasses career levels from Manager to VP, and combines a passion for excellence",
+        "following_text": " with a passion for people. Their primary focus is on strategizing the future of"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "complements team members"
+      },
+      "verification": {
+        "text_before_change": "ompasses career levels from Manager to VP, and combines a passion for excellencecomplements team members with a passion for people. Their primary focus is on strategizing the future of",
+        "text_after_change": "ompasses career levels from Manager to VP, and combines a passion for excellence with a passion for people. Their primary focus is on strategizing the future of"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "rom Manager to VP, and combines a passion for excellencecomplements team members",
+        "following_text": "\n\n\nBASIC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKx"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " with a passion for people. Their primary focus is on strategizing the future of Canonical: defining and orchestrating data-driven collaboration, and enhancing their teams’ high quality output.\n"
+      },
+      "verification": {
+        "text_before_change": "rom Manager to VP, and combines a passion for excellencecomplements team members\n\n\nBASIC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKx",
+        "text_after_change": "rom Manager to VP, and combines a passion for excellencecomplements team members with a passion for people. Their primary focus is on strategizing the future of Canonical: defining and orchestrating data-driven collaboration, and enhancing their teams’ high quality output.\n\n\n\nBASIC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKx"
+      }
+    },
+    {
+      "id": "suggest.s4p93ucx508r",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ng data-driven collaboration, and enhancing their teams’ high quality output.\n",
+        "following_text": "\n\nBASIC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxF"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "ng data-driven collaboration, and enhancing their teams’ high quality output.\n\n\nBASIC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxF",
+        "text_after_change": "ng data-driven collaboration, and enhancing their teams’ high quality output.\n\n\n\nBASIC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxF"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "n collaboration, and enhancing their teams’ high quality output.\n\n\n\nBASIC TEXT",
+        "following_text": "Early Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Can"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "n collaboration, and enhancing their teams’ high quality output.\n\n\n\nBASIC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Can",
+        "text_after_change": "n collaboration, and enhancing their teams’ high quality output.\n\n\n\nBASIC TEXTEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Can"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " collaboration, and enhancing their teams’ high quality output.\n\n\n\nBASIC TEXT\n",
+        "following_text": "\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Early Careers at Canonical\n"
+      },
+      "verification": {
+        "text_before_change": " collaboration, and enhancing their teams’ high quality output.\n\n\n\nBASIC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as",
+        "text_after_change": " collaboration, and enhancing their teams’ high quality output.\n\n\n\nBASIC TEXT\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ng their teams’ high quality output.\n\n\n\nBASIC TEXT\nEarly Careers at Canonical\n",
+        "following_text": "[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "ng their teams’ high quality output.\n\n\n\nBASIC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as ",
+        "text_after_change": "ng their teams’ high quality output.\n\n\n\nBASIC TEXT\nEarly Careers at Canonical\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as "
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "g their teams’ high quality output.\n\n\n\nBASIC TEXT\nEarly Careers at Canonical\n\n",
+        "following_text": "https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as talent is univ"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "[embed video: "
+      },
+      "verification": {
+        "text_before_change": "g their teams’ high quality output.\n\n\n\nBASIC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as talent is univ",
+        "text_after_change": "g their teams’ high quality output.\n\n\n\nBASIC TEXT\nEarly Careers at Canonical\n\nhttps://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as talent is univ"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "\ufffd\ufffd high quality output.\n\n\n\nBASIC TEXT\nEarly Careers at Canonical\n\n[embed video: ",
+        "following_text": " ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opp"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "https://youtu.be/SQRCwKxFzf4"
+      },
+      "verification": {
+        "text_before_change": "\ufffd\ufffd high quality output.\n\n\n\nBASIC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opp",
+        "text_after_change": "\ufffd\ufffd high quality output.\n\n\n\nBASIC TEXT\nEarly Careers at Canonical\n\n[embed video:  ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opp"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ASIC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4",
+        "following_text": "\n\nAt Canonical, we believe that, as talent is universally distributed, but oppor"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " ]"
+      },
+      "verification": {
+        "text_before_change": "ASIC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but oppor",
+        "text_after_change": "ASIC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4\n\nAt Canonical, we believe that, as talent is universally distributed, but oppor"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "IC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]",
+        "following_text": "\nAt Canonical, we believe that, as talent is universally distributed, but opport"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "IC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opport",
+        "text_after_change": "IC TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\nAt Canonical, we believe that, as talent is universally distributed, but opport"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "C TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n",
+        "following_text": "At Canonical, we believe that, as talent is universally distributed, but opportu"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "C TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opportu",
+        "text_after_change": "C TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\nAt Canonical, we believe that, as talent is universally distributed, but opportu"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\n",
+        "following_text": ", as talent is universally distributed, but opportunity should be toois not. Our"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "At Canonical, we believe that"
+      },
+      "verification": {
+        "text_before_change": " TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opportunity should be toois not. Our",
+        "text_after_change": " TEXT\nEarly Careers at Canonical\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\n, as talent is universally distributed, but opportunity should be toois not. Our"
+      }
+    },
+    {
+      "id": "suggest.c8cwhy55iysy",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "cal\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that",
+        "following_text": " as talent is universally distributed, but opportunity should be toois not. Our "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": ","
+      },
+      "verification": {
+        "text_before_change": "cal\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that as talent is universally distributed, but opportunity should be toois not. Our ",
+        "text_after_change": "cal\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opportunity should be toois not. Our "
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "cal\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that",
+        "following_text": " as talent is universally distributed, but opportunity should be toois not. Our "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": ","
+      },
+      "verification": {
+        "text_before_change": "cal\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opportunity should be toois not. Our ",
+        "text_after_change": "cal\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that as talent is universally distributed, but opportunity should be toois not. Our "
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "al\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that,",
+        "following_text": "as talent is universally distributed, but opportunity should be toois not. Our e"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " "
+      },
+      "verification": {
+        "text_before_change": "al\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opportunity should be toois not. Our e",
+        "text_after_change": "al\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that,as talent is universally distributed, but opportunity should be toois not. Our e"
+      }
+    },
+    {
+      "id": "suggest.q8h4el43g56o",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "l\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, ",
+        "following_text": "talent is universally distributed, but opportunity should be toois not. Our earl"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "as "
+      },
+      "verification": {
+        "text_before_change": "l\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, talent is universally distributed, but opportunity should be toois not. Our earl",
+        "text_after_change": "l\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opportunity should be toois not. Our earl"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "l\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, ",
+        "following_text": "talent is universally distributed, but opportunity should be toois not. Our earl"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "as "
+      },
+      "verification": {
+        "text_before_change": "l\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opportunity should be toois not. Our earl",
+        "text_after_change": "l\n\n[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, talent is universally distributed, but opportunity should be toois not. Our earl"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as ",
+        "following_text": "but opportunity should be toois not. Our early careers program is driven by the "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "talent is universally distributed, "
+      },
+      "verification": {
+        "text_before_change": "[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opportunity should be toois not. Our early careers program is driven by the ",
+        "text_after_change": "[embed video: https://youtu.be/SQRCwKxFzf4 ]\n\nAt Canonical, we believe that, as but opportunity should be toois not. Our early careers program is driven by the "
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "wKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, ",
+        "following_text": "opportunity should be toois not. Our early careers program is driven by the desi"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "but "
+      },
+      "verification": {
+        "text_before_change": "wKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opportunity should be toois not. Our early careers program is driven by the desi",
+        "text_after_change": "wKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, opportunity should be toois not. Our early careers program is driven by the desi"
+      }
+    },
+    {
+      "id": "suggest.g1gtbmasc9p",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "wKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, ",
+        "following_text": "opportunity should be toois not. Our early careers program is driven by the desi"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "but "
+      },
+      "verification": {
+        "text_before_change": "wKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opportunity should be toois not. Our early careers program is driven by the desi",
+        "text_after_change": "wKxFzf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, opportunity should be toois not. Our early careers program is driven by the desi"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "zf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but ",
+        "following_text": "should be toois not. Our early careers program is driven by the desire to create"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "opportunity "
+      },
+      "verification": {
+        "text_before_change": "zf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but opportunity should be toois not. Our early careers program is driven by the desire to create",
+        "text_after_change": "zf4 ]\n\nAt Canonical, we believe that, as talent is universally distributed, but should be toois not. Our early careers program is driven by the desire to create"
+      }
+    },
+    {
+      "id": "suggest.j4p9tknh37ai",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "nonical, we believe that, as talent is universally distributed, but opportunity ",
+        "following_text": "is not. Our early careers program is driven by the desire to create a globally a"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "should be too"
+      },
+      "verification": {
+        "text_before_change": "nonical, we believe that, as talent is universally distributed, but opportunity is not. Our early careers program is driven by the desire to create a globally a",
+        "text_after_change": "nonical, we believe that, as talent is universally distributed, but opportunity should be toois not. Our early careers program is driven by the desire to create a globally a"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "nonical, we believe that, as talent is universally distributed, but opportunity ",
+        "following_text": "is not. Our early careers program is driven by the desire to create a globally a"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "should be too"
+      },
+      "verification": {
+        "text_before_change": "nonical, we believe that, as talent is universally distributed, but opportunity should be toois not. Our early careers program is driven by the desire to create a globally a",
+        "text_after_change": "nonical, we believe that, as talent is universally distributed, but opportunity is not. Our early careers program is driven by the desire to create a globally a"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "elieve that, as talent is universally distributed, but opportunity should be too",
+        "following_text": ". Our early careers program is driven by the desire to create a globally accessi"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "is not"
+      },
+      "verification": {
+        "text_before_change": "elieve that, as talent is universally distributed, but opportunity should be toois not. Our early careers program is driven by the desire to create a globally accessi",
+        "text_after_change": "elieve that, as talent is universally distributed, but opportunity should be too. Our early careers program is driven by the desire to create a globally accessi"
+      }
+    },
+    {
+      "id": "suggest.j4p9tknh37ai",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "elieve that, as talent is universally distributed, but opportunity should be too",
+        "following_text": ". Our early careers program is driven by the desire to create a globally accessi"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "is not"
+      },
+      "verification": {
+        "text_before_change": "elieve that, as talent is universally distributed, but opportunity should be toois not. Our early careers program is driven by the desire to create a globally accessi",
+        "text_after_change": "elieve that, as talent is universally distributed, but opportunity should be too. Our early careers program is driven by the desire to create a globally accessi"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " that, as talent is universally distributed, but opportunity should be toois not",
+        "following_text": " to create a globally accessible, structured, and scalable pathway that nurtures"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": ". Our early careers program is driven by the desire"
+      },
+      "verification": {
+        "text_before_change": " that, as talent is universally distributed, but opportunity should be toois not. Our early careers program is driven by the desire to create a globally accessible, structured, and scalable pathway that nurtures",
+        "text_after_change": " that, as talent is universally distributed, but opportunity should be toois not to create a globally accessible, structured, and scalable pathway that nurtures"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "portunity should be toois not. Our early careers program is driven by the desire",
+        "following_text": "\n\nIt includes a defined three-tiered progression model (Graduate → Associate \ufffd"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " to create a globally accessible, structured, and scalable pathway that nurtures potential, fosters continuous development, and aligns with our remote-first, open source culture. We call this the “Journey to Prof I.”"
+      },
+      "verification": {
+        "text_before_change": "portunity should be toois not. Our early careers program is driven by the desire to create a globally accessible, structured, and scalable pathway that nurtures potential, fosters continuous development, and aligns with our remote-first, open source culture. We call this the “Journey to Prof I.”\n\nIt includes a defined three-tiered progression model (Graduate → Associate \ufffd",
+        "text_after_change": "portunity should be toois not. Our early careers program is driven by the desire\n\nIt includes a defined three-tiered progression model (Graduate → Associate \ufffd"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "our remote-first, open source culture. We call this the “Journey to Prof I.”",
+        "following_text": "\nIt includes a defined three-tiered progression model (Graduate → Associate \ufffd\ufffd"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "our remote-first, open source culture. We call this the “Journey to Prof I.”\n\nIt includes a defined three-tiered progression model (Graduate → Associate \ufffd\ufffd",
+        "text_after_change": "our remote-first, open source culture. We call this the “Journey to Prof I.”\nIt includes a defined three-tiered progression model (Graduate → Associate \ufffd\ufffd"
+      }
+    },
+    {
+      "id": "suggest.b472uuvbqybs",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "our remote-first, open source culture. We call this the “Journey to Prof I.”",
+        "following_text": "\nIt includes a defined three-tiered progression model (Graduate → Associate \ufffd\ufffd"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "our remote-first, open source culture. We call this the “Journey to Prof I.”\n\nIt includes a defined three-tiered progression model (Graduate → Associate \ufffd\ufffd",
+        "text_after_change": "our remote-first, open source culture. We call this the “Journey to Prof I.”\nIt includes a defined three-tiered progression model (Graduate → Associate \ufffd\ufffd"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ur remote-first, open source culture. We call this the “Journey to Prof I.”\n",
+        "following_text": "It includes a defined three-tiered progression model (Graduate → Associate →"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "ur remote-first, open source culture. We call this the “Journey to Prof I.”\n\nIt includes a defined three-tiered progression model (Graduate → Associate →",
+        "text_after_change": "ur remote-first, open source culture. We call this the “Journey to Prof I.”\nIt includes a defined three-tiered progression model (Graduate → Associate →"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "r remote-first, open source culture. We call this the “Journey to Prof I.”\n\n",
+        "following_text": "This initiative ensures that our early-career hires are not only set up for long"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "It includes a defined three-tiered progression model (Graduate → Associate → Prof I), embedded feedback and promotion cycles, ownership, and impact from day one..\n"
+      },
+      "verification": {
+        "text_before_change": "r remote-first, open source culture. We call this the “Journey to Prof I.”\n\nIt includes a defined three-tiered progression model (Graduate → Associate → Prof I), embedded feedback and promotion cycles, ownership, and impact from day one..\nThis initiative ensures that our early-career hires are not only set up for long",
+        "text_after_change": "r remote-first, open source culture. We call this the “Journey to Prof I.”\n\nThis initiative ensures that our early-career hires are not only set up for long"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "), embedded feedback and promotion cycles, ownership, and impact from day one..\n",
+        "following_text": "\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\n"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "This initiative ensures that our early-career hires are not only set up for long-term career success, but also empowered to thrive. It is a core part of Canonical’s commitment to inclusive, future-focused talent development.\n"
+      },
+      "verification": {
+        "text_before_change": "), embedded feedback and promotion cycles, ownership, and impact from day one..\nThis initiative ensures that our early-career hires are not only set up for long-term career success, but also empowered to thrive. It is a core part of Canonical’s commitment to inclusive, future-focused talent development.\n\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\n",
+        "text_after_change": "), embedded feedback and promotion cycles, ownership, and impact from day one..\n\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\n"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "rt of Canonical’s commitment to inclusive, future-focused talent development.\n",
+        "following_text": "Interested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\nL"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "rt of Canonical’s commitment to inclusive, future-focused talent development.\n\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\nL",
+        "text_after_change": "rt of Canonical’s commitment to inclusive, future-focused talent development.\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\nL"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "t of Canonical’s commitment to inclusive, future-focused talent development.\n\n",
+        "following_text": "[Find out more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n      "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Interested in applying? "
+      },
+      "verification": {
+        "text_before_change": "t of Canonical’s commitment to inclusive, future-focused talent development.\n\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n      ",
+        "text_after_change": "t of Canonical’s commitment to inclusive, future-focused talent development.\n\n[Find out more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n      "
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "tment to inclusive, future-focused talent development.\n\nInterested in applying? ",
+        "following_text": "\n\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levell"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "[Find out more about our hiring process.]"
+      },
+      "verification": {
+        "text_before_change": "tment to inclusive, future-focused talent development.\n\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levell",
+        "text_after_change": "tment to inclusive, future-focused talent development.\n\nInterested in applying? \n\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levell"
+      }
+    },
+    {
+      "id": "suggest.41euy17iif8m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " development.\n\nInterested in applying? [Find out more about our hiring process.]",
+        "following_text": "\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levelli"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": " development.\n\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levelli",
+        "text_after_change": " development.\n\nInterested in applying? [Find out more about our hiring process.]\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levelli"
+      }
+    },
+    {
+      "id": "suggest.7k50cw5f8q3m",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "development.\n\nInterested in applying? [Find out more about our hiring process.]\n",
+        "following_text": "\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levellin"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "development.\n\nInterested in applying? [Find out more about our hiring process.]\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levellin",
+        "text_after_change": "development.\n\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levellin"
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "evelopment.\n\nInterested in applying? [Find out more about our hiring process.]\n\n",
+        "following_text": "BASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levelling"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "evelopment.\n\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levelling",
+        "text_after_change": "evelopment.\n\nInterested in applying? [Find out more about our hiring process.]\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levelling"
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "velopment.\n\nInterested in applying? [Find out more about our hiring process.]\n\n\n",
+        "following_text": "\nLeveling framework\n               \n [Visual placeholder for levelling diagram]\n"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "BASIC TEXT"
+      },
+      "verification": {
+        "text_before_change": "velopment.\n\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levelling diagram]\n",
+        "text_after_change": "velopment.\n\nInterested in applying? [Find out more about our hiring process.]\n\n\n\nLeveling framework\n               \n [Visual placeholder for levelling diagram]\n"
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "\n\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT",
+        "following_text": "Leveling framework\n               \n [Visual placeholder for levelling diagram]\n\n"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "\n\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levelling diagram]\n\n",
+        "text_after_change": "\n\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXTLeveling framework\n               \n [Visual placeholder for levelling diagram]\n\n"
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\n",
+        "following_text": "               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Leveling framework\n"
+      },
+      "verification": {
+        "text_before_change": "\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt ",
+        "text_after_change": "\nInterested in applying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt "
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n",
+        "following_text": " [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt text: A diagram "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "               \n"
+      },
+      "verification": {
+        "text_before_change": "ying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt text: A diagram ",
+        "text_after_change": "ying? [Find out more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt text: A diagram "
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n               \n",
+        "following_text": "]\n\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from gr"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " [Visual placeholder for levelling diagram"
+      },
+      "verification": {
+        "text_before_change": "more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from gr",
+        "text_after_change": "more about our hiring process.]\n\n\nBASIC TEXT\nLeveling framework\n               \n]\n\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from gr"
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "XT\nLeveling framework\n               \n [Visual placeholder for levelling diagram",
+        "following_text": "\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from grad"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "]\n"
+      },
+      "verification": {
+        "text_before_change": "XT\nLeveling framework\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from grad",
+        "text_after_change": "XT\nLeveling framework\n               \n [Visual placeholder for levelling diagram\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from grad"
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "\nLeveling framework\n               \n [Visual placeholder for levelling diagram]\n",
+        "following_text": "\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from gradu"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "\nLeveling framework\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from gradu",
+        "text_after_change": "\nLeveling framework\n               \n [Visual placeholder for levelling diagram]\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from gradu"
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "Leveling framework\n               \n [Visual placeholder for levelling diagram]\n\n",
+        "following_text": "\nAssets link\n(Alt text: A diagram illustrating career paths starting from gradua"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "Leveling framework\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from gradua",
+        "text_after_change": "Leveling framework\n               \n [Visual placeholder for levelling diagram]\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from gradua"
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "eveling framework\n               \n [Visual placeholder for levelling diagram]\n\n\n",
+        "following_text": "Assets link\n(Alt text: A diagram illustrating career paths starting from graduat"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "eveling framework\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from graduat",
+        "text_after_change": "eveling framework\n               \n [Visual placeholder for levelling diagram]\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from graduat"
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "veling framework\n               \n [Visual placeholder for levelling diagram]\n\n\n\n",
+        "following_text": "(Alt text: A diagram illustrating career paths starting from graduate level. It "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Assets link\n"
+      },
+      "verification": {
+        "text_before_change": "veling framework\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from graduate level. It ",
+        "text_after_change": "veling framework\n               \n [Visual placeholder for levelling diagram]\n\n\n\n(Alt text: A diagram illustrating career paths starting from graduate level. It "
+      }
+    },
+    {
+      "id": "suggest.8dy185xshid0",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "work\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n",
+        "following_text": "Alt text: A diagram illustrating career paths starting from graduate level. It b"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "(",
+        "new_url": "https://assets.ubuntu.com/manager/details?file_path=8c7d2b68-diagram.jpg"
+      },
+      "verification": {
+        "text_before_change": "work\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\nAlt text: A diagram illustrating career paths starting from graduate level. It b",
+        "text_after_change": "work\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from graduate level. It b"
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "work\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n",
+        "following_text": "Alt text: A diagram illustrating career paths starting from graduate level. It b"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "("
+      },
+      "verification": {
+        "text_before_change": "work\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from graduate level. It b",
+        "text_after_change": "work\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\nAlt text: A diagram illustrating career paths starting from graduate level. It b"
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ork\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(",
+        "following_text": "\n\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Alt text: A diagram illustrating career paths starting from graduate level. It branches into three leadership tracks: depth for technical specialists, drive for staff and principals, and plan for management roles like director and VP.)"
+      },
+      "verification": {
+        "text_before_change": "ork\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(Alt text: A diagram illustrating career paths starting from graduate level. It branches into three leadership tracks: depth for technical specialists, drive for staff and principals, and plan for management roles like director and VP.)\n\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I",
+        "text_after_change": "ork\n               \n [Visual placeholder for levelling diagram]\n\n\n\nAssets link\n(\n\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I"
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "e for staff and principals, and plan for management roles like director and VP.)",
+        "following_text": "\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "e for staff and principals, and plan for management roles like director and VP.)\n\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I ",
+        "text_after_change": "e for staff and principals, and plan for management roles like director and VP.)\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I "
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " for staff and principals, and plan for management roles like director and VP.)\n",
+        "following_text": "\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I l"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": " for staff and principals, and plan for management roles like director and VP.)\n\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I l",
+        "text_after_change": " for staff and principals, and plan for management roles like director and VP.)\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I l"
+      }
+    },
+    {
+      "id": "suggest.yeiyk3z4ywt4",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "for staff and principals, and plan for management roles like director and VP.)\n\n",
+        "following_text": "\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I li"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "for staff and principals, and plan for management roles like director and VP.)\n\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I li",
+        "text_after_change": "for staff and principals, and plan for management roles like director and VP.)\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I li"
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ipals, and plan for management roles like director and VP.)\n\n\n\n\nTEMPLATE QUOTE 1",
+        "following_text": "Hear from team members on the Journey to Prof I\n\n“What I like most about the p"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "ipals, and plan for management roles like director and VP.)\n\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I like most about the p",
+        "text_after_change": "ipals, and plan for management roles like director and VP.)\n\n\n\n\nTEMPLATE QUOTE 1Hear from team members on the Journey to Prof I\n\n“What I like most about the p"
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "pals, and plan for management roles like director and VP.)\n\n\n\n\nTEMPLATE QUOTE 1\n",
+        "following_text": "\n“What I like most about the program is that it allows career advancement from"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Hear from team members on the Journey to Prof I\n"
+      },
+      "verification": {
+        "text_before_change": "pals, and plan for management roles like director and VP.)\n\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I like most about the program is that it allows career advancement from",
+        "text_after_change": "pals, and plan for management roles like director and VP.)\n\n\n\n\nTEMPLATE QUOTE 1\n\n“What I like most about the program is that it allows career advancement from"
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "r and VP.)\n\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n",
+        "following_text": "“What I like most about the program is that it allows career advancement from "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "r and VP.)\n\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I like most about the program is that it allows career advancement from ",
+        "text_after_change": "r and VP.)\n\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n“What I like most about the program is that it allows career advancement from "
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " and VP.)\n\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n",
+        "following_text": "– Trinh, Graduate Talent Experience Generalist \n\n“Thanks to the program, I\ufffd\ufffd"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "“What I like most about the program is that it allows career advancement from day 1. Knowing that there's plenty of room for growth satisfies my desire to continuously learn, improve, and advance in my career. It also makes me more focused and intentional in what I do. I'd say both technical and behavioral skills have been improved a lot during the journey.”\n"
+      },
+      "verification": {
+        "text_before_change": " and VP.)\n\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n“What I like most about the program is that it allows career advancement from day 1. Knowing that there's plenty of room for growth satisfies my desire to continuously learn, improve, and advance in my career. It also makes me more focused and intentional in what I do. I'd say both technical and behavioral skills have been improved a lot during the journey.”\n– Trinh, Graduate Talent Experience Generalist \n\n“Thanks to the program, I\ufffd\ufffd",
+        "text_after_change": " and VP.)\n\n\n\n\nTEMPLATE QUOTE 1\nHear from team members on the Journey to Prof I\n\n– Trinh, Graduate Talent Experience Generalist \n\n“Thanks to the program, I\ufffd\ufffd"
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "technical and behavioral skills have been improved a lot during the journey.”\n",
+        "following_text": "Trinh, Graduate Talent Experience Generalist \n\n“Thanks to the program, I’ve "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "– "
+      },
+      "verification": {
+        "text_before_change": "technical and behavioral skills have been improved a lot during the journey.”\n– Trinh, Graduate Talent Experience Generalist \n\n“Thanks to the program, I’ve ",
+        "text_after_change": "technical and behavioral skills have been improved a lot during the journey.”\nTrinh, Graduate Talent Experience Generalist \n\n“Thanks to the program, I’ve "
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "nical and behavioral skills have been improved a lot during the journey.”\n– ",
+        "following_text": "\n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- t"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Trinh, Graduate Talent Experience Generalist "
+      },
+      "verification": {
+        "text_before_change": "nical and behavioral skills have been improved a lot during the journey.”\n– Trinh, Graduate Talent Experience Generalist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- t",
+        "text_after_change": "nical and behavioral skills have been improved a lot during the journey.”\n– \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- t"
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "d a lot during the journey.”\n– Trinh, Graduate Talent Experience Generalist ",
+        "following_text": "\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- to"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "d a lot during the journey.”\n– Trinh, Graduate Talent Experience Generalist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- to",
+        "text_after_change": "d a lot during the journey.”\n– Trinh, Graduate Talent Experience Generalist \n“Thanks to the program, I’ve learned to pick up new skills quickly –-- to"
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": " a lot during the journey.”\n– Trinh, Graduate Talent Experience Generalist \n",
+        "following_text": "“Thanks to the program, I’ve learned to pick up new skills quickly –-- to "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": " a lot during the journey.”\n– Trinh, Graduate Talent Experience Generalist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- to ",
+        "text_after_change": " a lot during the journey.”\n– Trinh, Graduate Talent Experience Generalist \n“Thanks to the program, I’ve learned to pick up new skills quickly –-- to "
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "a lot during the journey.”\n– Trinh, Graduate Talent Experience Generalist \n\n",
+        "following_text": "–-- to me one month at Canonical feels like six months of development. In addi"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "“Thanks to the program, I’ve learned to pick up new skills quickly "
+      },
+      "verification": {
+        "text_before_change": "a lot during the journey.”\n– Trinh, Graduate Talent Experience Generalist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- to me one month at Canonical feels like six months of development. In addi",
+        "text_after_change": "a lot during the journey.”\n– Trinh, Graduate Talent Experience Generalist \n\n–-- to me one month at Canonical feels like six months of development. In addi"
+      }
+    },
+    {
+      "id": "suggest.rqbylk7lj9md",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ralist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly ",
+        "following_text": "-- to me one month at Canonical feels like six months of development. In additio"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "–"
+      },
+      "verification": {
+        "text_before_change": "ralist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly -- to me one month at Canonical feels like six months of development. In additio",
+        "text_after_change": "ralist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- to me one month at Canonical feels like six months of development. In additio"
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ralist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly ",
+        "following_text": "-- to me one month at Canonical feels like six months of development. In additio"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "–"
+      },
+      "verification": {
+        "text_before_change": "ralist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- to me one month at Canonical feels like six months of development. In additio",
+        "text_after_change": "ralist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly -- to me one month at Canonical feels like six months of development. In additio"
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –",
+        "following_text": "- to me one month at Canonical feels like six months of development. In addition"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "-"
+      },
+      "verification": {
+        "text_before_change": "ist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- to me one month at Canonical feels like six months of development. In addition",
+        "text_after_change": "ist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –- to me one month at Canonical feels like six months of development. In addition"
+      }
+    },
+    {
+      "id": "suggest.rqbylk7lj9md",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "ist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –",
+        "following_text": "- to me one month at Canonical feels like six months of development. In addition"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "-"
+      },
+      "verification": {
+        "text_before_change": "ist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- to me one month at Canonical feels like six months of development. In addition",
+        "text_after_change": "ist \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –- to me one month at Canonical feels like six months of development. In addition"
+      }
+    },
+    {
+      "id": "suggest.d8ejv7mhd3ta",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "st \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-",
+        "following_text": " to me one month at Canonical feels like six months of development. In addition "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "-"
+      },
+      "verification": {
+        "text_before_change": "st \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –- to me one month at Canonical feels like six months of development. In addition ",
+        "text_after_change": "st \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- to me one month at Canonical feels like six months of development. In addition "
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "st \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-",
+        "following_text": " to me one month at Canonical feels like six months of development. In addition "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "-"
+      },
+      "verification": {
+        "text_before_change": "st \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- to me one month at Canonical feels like six months of development. In addition ",
+        "text_after_change": "st \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –- to me one month at Canonical feels like six months of development. In addition "
+      }
+    },
+    {
+      "id": "suggest.rqbylk7lj9md",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "st \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-",
+        "following_text": " to me one month at Canonical feels like six months of development. In addition "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "-"
+      },
+      "verification": {
+        "text_before_change": "st \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- to me one month at Canonical feels like six months of development. In addition ",
+        "text_after_change": "st \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –- to me one month at Canonical feels like six months of development. In addition "
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "t \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –--",
+        "following_text": "– Aleksandra, Associate Social Media Marketing Specialist\n\n\n"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " to me one month at Canonical feels like six months of development. In addition to gaining hard skills, I’ve developed the habit of regularly seeking feedback, reflecting on my progress, and giving visibility into my work. Furthermore, working remotely has taught me how to communicate effectively across teams, time zones, and diverse backgrounds.”\n"
+      },
+      "verification": {
+        "text_before_change": "t \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –-- to me one month at Canonical feels like six months of development. In addition to gaining hard skills, I’ve developed the habit of regularly seeking feedback, reflecting on my progress, and giving visibility into my work. Furthermore, working remotely has taught me how to communicate effectively across teams, time zones, and diverse backgrounds.”\n– Aleksandra, Associate Social Media Marketing Specialist\n\n\n",
+        "text_after_change": "t \n\n“Thanks to the program, I’ve learned to pick up new skills quickly –--– Aleksandra, Associate Social Media Marketing Specialist\n\n\n"
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "o communicate effectively across teams, time zones, and diverse backgrounds.”\n",
+        "following_text": "\n\n"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "– Aleksandra, Associate Social Media Marketing Specialist\n"
+      },
+      "verification": {
+        "text_before_change": "o communicate effectively across teams, time zones, and diverse backgrounds.”\n– Aleksandra, Associate Social Media Marketing Specialist\n\n\n",
+        "text_after_change": "o communicate effectively across teams, time zones, and diverse backgrounds.”\n\n\n"
+      }
+    },
+    {
+      "id": "suggest.j88i22n2ni5c",
+      "file": "Body",
+      "anchor": {
+        "preceding_text": "rse backgrounds.”\n– Aleksandra, Associate Social Media Marketing Specialist\n",
+        "following_text": "\n"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "rse backgrounds.”\n– Aleksandra, Associate Social Media Marketing Specialist\n\n\n",
+        "text_after_change": "rse backgrounds.”\n– Aleksandra, Associate Social Media Marketing Specialist\n\n"
+      }
+    }
+  ]
+}
